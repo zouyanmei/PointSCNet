@@ -1,0 +1,3029 @@
+base
+[0.0, 0.013636364601552486, 0.027272729203104973, 0.040909092873334885]
+[0.054545458406209946, 0.06818182021379471, 0.08181818574666977, 0.09545454382896423]
+[0.1090909093618393, 0.12272727489471436, 0.13636364042758942, 0.15000000596046448]
+epoch 0:
+loss: 2.8288 || cls: 1.6988
+train: acc: 0.4321 || macc: 0.2272
+val:   acc: 0.545 || macc: 0.3997
+duration: 18.800074815750122
+new best!
+epoch 1:
+loss: 2.1603 || cls: 0.4011
+train: acc: 0.6632 || macc: 0.4605
+val:   acc: 0.7719 || macc: 0.6201
+duration: 18.580095767974854
+new best!
+epoch 2:
+loss: 1.8977 || cls: 0.1005
+train: acc: 0.764 || macc: 0.6167
+val:   acc: 0.7759 || macc: 0.6562
+duration: 18.5345778465271
+new best!
+epoch 3:
+loss: 1.7783 || cls: 0.068
+train: acc: 0.8019 || macc: 0.6839
+val:   acc: 0.8472 || macc: 0.759
+duration: 18.483846426010132
+new best!
+epoch 4:
+loss: 1.7091 || cls: 0.0582
+train: acc: 0.8327 || macc: 0.7441
+val:   acc: 0.8788 || macc: 0.7914
+duration: 18.413898944854736
+new best!
+epoch 5:
+loss: 1.6799 || cls: 0.0528
+train: acc: 0.843 || macc: 0.7606
+val:   acc: 0.8586 || macc: 0.7779
+duration: 18.152019500732422
+epoch 6:
+loss: 1.635 || cls: 0.0487
+train: acc: 0.8579 || macc: 0.7844
+val:   acc: 0.8768 || macc: 0.7986
+duration: 18.439688682556152
+epoch 7:
+loss: 1.6096 || cls: 0.0459
+train: acc: 0.8709 || macc: 0.803
+val:   acc: 0.8643 || macc: 0.8087
+duration: 18.466893196105957
+epoch 8:
+loss: 1.6007 || cls: 0.0425
+train: acc: 0.8705 || macc: 0.8022
+val:   acc: 0.8995 || macc: 0.8325
+duration: 18.474880695343018
+new best!
+epoch 9:
+loss: 1.5907 || cls: 0.0415
+train: acc: 0.8742 || macc: 0.805
+val:   acc: 0.8963 || macc: 0.8375
+duration: 18.448078870773315
+epoch 10:
+loss: 1.5686 || cls: 0.0399
+train: acc: 0.8875 || macc: 0.8277
+val:   acc: 0.8959 || macc: 0.8528
+duration: 18.449471950531006
+epoch 11:
+loss: 1.5601 || cls: 0.0393
+train: acc: 0.8879 || macc: 0.8297
+val:   acc: 0.893 || macc: 0.8333
+duration: 18.429962873458862
+epoch 12:
+loss: 1.5531 || cls: 0.0373
+train: acc: 0.8915 || macc: 0.8342
+val:   acc: 0.9007 || macc: 0.8491
+duration: 18.45423650741577
+new best!
+epoch 13:
+loss: 1.5472 || cls: 0.0367
+train: acc: 0.896 || macc: 0.8405
+val:   acc: 0.8922 || macc: 0.8484
+duration: 18.4671893119812
+epoch 14:
+loss: 1.5327 || cls: 0.0345
+train: acc: 0.9014 || macc: 0.8511
+val:   acc: 0.8918 || macc: 0.8462
+duration: 18.43427276611328
+epoch 15:
+loss: 1.526 || cls: 0.0338
+train: acc: 0.9012 || macc: 0.8527
+val:   acc: 0.8999 || macc: 0.8604
+duration: 18.465681314468384
+epoch 16:
+loss: 1.5106 || cls: 0.0348
+train: acc: 0.9113 || macc: 0.8647
+val:   acc: 0.9032 || macc: 0.8625
+duration: 18.450053691864014
+new best!
+epoch 17:
+loss: 1.5137 || cls: 0.0323
+train: acc: 0.9084 || macc: 0.8625
+val:   acc: 0.8914 || macc: 0.8397
+duration: 18.42991614341736
+epoch 18:
+loss: 1.5074 || cls: 0.033
+train: acc: 0.909 || macc: 0.8642
+val:   acc: 0.9044 || macc: 0.853
+duration: 18.436538696289062
+new best!
+epoch 19:
+loss: 1.4981 || cls: 0.0324
+train: acc: 0.915 || macc: 0.8735
+val:   acc: 0.9084 || macc: 0.8585
+duration: 18.4437415599823
+new best!
+epoch 20:
+loss: 1.4914 || cls: 0.0313
+train: acc: 0.9159 || macc: 0.873
+val:   acc: 0.8967 || macc: 0.8695
+duration: 18.473788499832153
+epoch 21:
+loss: 1.4899 || cls: 0.0308
+train: acc: 0.9156 || macc: 0.8728
+val:   acc: 0.9024 || macc: 0.8681
+duration: 18.463955402374268
+epoch 22:
+loss: 1.4888 || cls: 0.0313
+train: acc: 0.9159 || macc: 0.8738
+val:   acc: 0.9019 || macc: 0.8637
+duration: 18.454307079315186
+epoch 23:
+loss: 1.4816 || cls: 0.0286
+train: acc: 0.9177 || macc: 0.8746
+val:   acc: 0.8999 || macc: 0.8595
+duration: 18.441996335983276
+epoch 24:
+loss: 1.4749 || cls: 0.0276
+train: acc: 0.9241 || macc: 0.8879
+val:   acc: 0.8849 || macc: 0.8608
+duration: 18.489309310913086
+epoch 25:
+loss: 1.4672 || cls: 0.0285
+train: acc: 0.9226 || macc: 0.8841
+val:   acc: 0.9064 || macc: 0.8733
+duration: 18.480639219284058
+epoch 26:
+loss: 1.4643 || cls: 0.0263
+train: acc: 0.9251 || macc: 0.8897
+val:   acc: 0.9056 || macc: 0.8773
+duration: 18.47361421585083
+epoch 27:
+loss: 1.4617 || cls: 0.0247
+train: acc: 0.9278 || macc: 0.8911
+val:   acc: 0.9015 || macc: 0.8635
+duration: 18.492345571517944
+epoch 28:
+loss: 1.4523 || cls: 0.0251
+train: acc: 0.931 || macc: 0.8962
+val:   acc: 0.9036 || macc: 0.8717
+duration: 18.46098279953003
+epoch 29:
+loss: 1.4496 || cls: 0.0244
+train: acc: 0.9324 || macc: 0.8974
+val:   acc: 0.8955 || macc: 0.8798
+duration: 18.43885612487793
+epoch 30:
+loss: 1.4444 || cls: 0.0224
+train: acc: 0.9355 || macc: 0.9035
+val:   acc: 0.8967 || macc: 0.8555
+duration: 18.459701538085938
+epoch 31:
+loss: 1.4474 || cls: 0.0229
+train: acc: 0.9327 || macc: 0.8988
+val:   acc: 0.9113 || macc: 0.8654
+duration: 18.448235273361206
+new best!
+epoch 32:
+loss: 1.4372 || cls: 0.0215
+train: acc: 0.9399 || macc: 0.9089
+val:   acc: 0.9234 || macc: 0.8834
+duration: 18.435734748840332
+new best!
+epoch 33:
+loss: 1.4384 || cls: 0.0208
+train: acc: 0.9367 || macc: 0.904
+val:   acc: 0.9032 || macc: 0.8641
+duration: 18.45950436592102
+epoch 34:
+loss: 1.4317 || cls: 0.02
+train: acc: 0.9378 || macc: 0.9081
+val:   acc: 0.9044 || macc: 0.8808
+duration: 18.455454111099243
+epoch 35:
+loss: 1.4265 || cls: 0.018
+train: acc: 0.9411 || macc: 0.9111
+val:   acc: 0.9133 || macc: 0.8841
+duration: 18.464988708496094
+epoch 36:
+loss: 1.4168 || cls: 0.0176
+train: acc: 0.9446 || macc: 0.9206
+val:   acc: 0.9242 || macc: 0.8782
+duration: 18.477994680404663
+new best!
+epoch 37:
+loss: 1.4162 || cls: 0.0173
+train: acc: 0.9457 || macc: 0.918
+val:   acc: 0.9275 || macc: 0.8951
+duration: 18.470506191253662
+new best!
+epoch 38:
+loss: 1.4166 || cls: 0.0162
+train: acc: 0.9442 || macc: 0.9155
+val:   acc: 0.9198 || macc: 0.8811
+duration: 18.491275548934937
+epoch 39:
+loss: 1.4124 || cls: 0.0158
+train: acc: 0.9456 || macc: 0.9185
+val:   acc: 0.91 || macc: 0.8722
+duration: 18.473607063293457
+epoch 40:
+loss: 1.4079 || cls: 0.0158
+train: acc: 0.9493 || macc: 0.9236
+val:   acc: 0.9117 || macc: 0.8825
+duration: 18.46457815170288
+epoch 41:
+loss: 1.4114 || cls: 0.0148
+train: acc: 0.9467 || macc: 0.9191
+val:   acc: 0.9222 || macc: 0.8848
+duration: 18.486655950546265
+epoch 42:
+loss: 1.4025 || cls: 0.0142
+train: acc: 0.9488 || macc: 0.9227
+val:   acc: 0.9238 || macc: 0.89
+duration: 18.481488466262817
+epoch 43:
+loss: 1.3945 || cls: 0.0146
+train: acc: 0.9555 || macc: 0.9313
+val:   acc: 0.9267 || macc: 0.8973
+duration: 18.46127414703369
+epoch 44:
+loss: 1.4002 || cls: 0.0139
+train: acc: 0.9493 || macc: 0.9231
+val:   acc: 0.9149 || macc: 0.8823
+duration: 18.457746744155884
+epoch 45:
+loss: 1.3944 || cls: 0.0151
+train: acc: 0.951 || macc: 0.9273
+val:   acc: 0.9218 || macc: 0.8915
+duration: 18.492557764053345
+epoch 46:
+loss: 1.393 || cls: 0.0139
+train: acc: 0.9548 || macc: 0.9327
+val:   acc: 0.9145 || macc: 0.8824
+duration: 18.4601411819458
+epoch 47:
+loss: 1.3876 || cls: 0.0138
+train: acc: 0.953 || macc: 0.9294
+val:   acc: 0.9226 || macc: 0.8865
+duration: 18.461774110794067
+epoch 48:
+loss: 1.3861 || cls: 0.0134
+train: acc: 0.9568 || macc: 0.9367
+val:   acc: 0.9153 || macc: 0.883
+duration: 18.48503017425537
+epoch 49:
+loss: 1.3838 || cls: 0.0131
+train: acc: 0.9564 || macc: 0.9349
+val:   acc: 0.908 || macc: 0.8803
+duration: 18.440066814422607
+epoch 50:
+loss: 1.3817 || cls: 0.0128
+train: acc: 0.9556 || macc: 0.9339
+val:   acc: 0.9177 || macc: 0.8823
+duration: 18.453399181365967
+epoch 51:
+loss: 1.3796 || cls: 0.0138
+train: acc: 0.9586 || macc: 0.9374
+val:   acc: 0.9283 || macc: 0.8958
+duration: 18.47591233253479
+new best!
+epoch 52:
+loss: 1.3738 || cls: 0.0134
+train: acc: 0.9594 || macc: 0.9392
+val:   acc: 0.9254 || macc: 0.8899
+duration: 18.47816824913025
+epoch 53:
+loss: 1.3829 || cls: 0.0132
+train: acc: 0.9542 || macc: 0.9313
+val:   acc: 0.9133 || macc: 0.8818
+duration: 18.44158363342285
+epoch 54:
+loss: 1.3689 || cls: 0.0128
+train: acc: 0.9625 || macc: 0.9433
+val:   acc: 0.9218 || macc: 0.8855
+duration: 18.463478326797485
+epoch 55:
+loss: 1.368 || cls: 0.0123
+train: acc: 0.9633 || macc: 0.9448
+val:   acc: 0.9246 || macc: 0.8854
+duration: 18.487141370773315
+epoch 56:
+loss: 1.3671 || cls: 0.0134
+train: acc: 0.9621 || macc: 0.9454
+val:   acc: 0.9198 || macc: 0.8953
+duration: 18.460404634475708
+epoch 57:
+loss: 1.3661 || cls: 0.0129
+train: acc: 0.963 || macc: 0.9447
+val:   acc: 0.9214 || macc: 0.8935
+duration: 18.45266890525818
+epoch 58:
+loss: 1.3608 || cls: 0.0135
+train: acc: 0.966 || macc: 0.9493
+val:   acc: 0.9254 || macc: 0.8908
+duration: 18.463979721069336
+epoch 59:
+loss: 1.3629 || cls: 0.0131
+train: acc: 0.9654 || macc: 0.9494
+val:   acc: 0.9088 || macc: 0.8858
+duration: 18.49560046195984
+epoch 60:
+loss: 1.3574 || cls: 0.0126
+train: acc: 0.9658 || macc: 0.9484
+val:   acc: 0.9169 || macc: 0.8899
+duration: 18.44799780845642
+epoch 61:
+loss: 1.3544 || cls: 0.0121
+train: acc: 0.9657 || macc: 0.9497
+val:   acc: 0.925 || macc: 0.897
+duration: 18.46784234046936
+epoch 62:
+loss: 1.3521 || cls: 0.012
+train: acc: 0.9653 || macc: 0.95
+val:   acc: 0.925 || macc: 0.893
+duration: 18.452298402786255
+epoch 63:
+loss: 1.3436 || cls: 0.0116
+train: acc: 0.9701 || macc: 0.956
+val:   acc: 0.923 || macc: 0.8956
+duration: 18.46789860725403
+epoch 64:
+loss: 1.3443 || cls: 0.0123
+train: acc: 0.9704 || macc: 0.9559
+val:   acc: 0.9279 || macc: 0.8981
+duration: 18.4484121799469
+epoch 65:
+loss: 1.3445 || cls: 0.0125
+train: acc: 0.9704 || macc: 0.956
+val:   acc: 0.9186 || macc: 0.8848
+duration: 18.456430912017822
+epoch 66:
+loss: 1.34 || cls: 0.0113
+train: acc: 0.9727 || macc: 0.9592
+val:   acc: 0.9303 || macc: 0.8939
+duration: 18.447731256484985
+new best!
+epoch 67:
+loss: 1.3405 || cls: 0.0121
+train: acc: 0.9717 || macc: 0.9581
+val:   acc: 0.9121 || macc: 0.884
+duration: 18.436522483825684
+epoch 68:
+loss: 1.337 || cls: 0.0105
+train: acc: 0.9731 || macc: 0.9611
+val:   acc: 0.9145 || macc: 0.8998
+duration: 18.453731536865234
+epoch 69:
+loss: 1.3331 || cls: 0.0116
+train: acc: 0.9743 || macc: 0.9628
+val:   acc: 0.9303 || macc: 0.8953
+duration: 18.463438034057617
+epoch 70:
+loss: 1.3386 || cls: 0.0115
+train: acc: 0.971 || macc: 0.9561
+val:   acc: 0.9121 || macc: 0.8933
+duration: 18.453575134277344
+epoch 71:
+loss: 1.3311 || cls: 0.012
+train: acc: 0.9762 || macc: 0.9665
+val:   acc: 0.9254 || macc: 0.9044
+duration: 18.45195698738098
+epoch 72:
+loss: 1.3318 || cls: 0.0109
+train: acc: 0.9736 || macc: 0.9619
+val:   acc: 0.9307 || macc: 0.8926
+duration: 18.481757640838623
+new best!
+epoch 73:
+loss: 1.3293 || cls: 0.0109
+train: acc: 0.9755 || macc: 0.9624
+val:   acc: 0.9254 || macc: 0.9084
+duration: 18.41040563583374
+epoch 74:
+loss: 1.3259 || cls: 0.0108
+train: acc: 0.9766 || macc: 0.9645
+val:   acc: 0.9202 || macc: 0.8886
+duration: 17.983356475830078
+epoch 75:
+loss: 1.3278 || cls: 0.0113
+train: acc: 0.9765 || macc: 0.9657
+val:   acc: 0.9202 || macc: 0.9032
+duration: 18.45961856842041
+epoch 76:
+loss: 1.325 || cls: 0.0102
+train: acc: 0.9784 || macc: 0.9688
+val:   acc: 0.9238 || macc: 0.899
+duration: 18.450984716415405
+epoch 77:
+loss: 1.3208 || cls: 0.0106
+train: acc: 0.9784 || macc: 0.967
+val:   acc: 0.9263 || macc: 0.8998
+duration: 18.468331575393677
+epoch 78:
+loss: 1.3179 || cls: 0.01
+train: acc: 0.9798 || macc: 0.9707
+val:   acc: 0.9234 || macc: 0.9
+duration: 18.454721212387085
+epoch 79:
+loss: 1.315 || cls: 0.0101
+train: acc: 0.9793 || macc: 0.9704
+val:   acc: 0.9234 || macc: 0.8897
+duration: 18.456056833267212
+epoch 80:
+loss: 1.3163 || cls: 0.0103
+train: acc: 0.9818 || macc: 0.9731
+val:   acc: 0.9254 || macc: 0.9023
+duration: 18.464911222457886
+epoch 81:
+loss: 1.3144 || cls: 0.0106
+train: acc: 0.983 || macc: 0.9739
+val:   acc: 0.908 || macc: 0.8956
+duration: 18.477345943450928
+epoch 82:
+loss: 1.3149 || cls: 0.0105
+train: acc: 0.9808 || macc: 0.9738
+val:   acc: 0.9234 || macc: 0.9024
+duration: 18.46272301673889
+epoch 83:
+loss: 1.3146 || cls: 0.0107
+train: acc: 0.9807 || macc: 0.9705
+val:   acc: 0.9291 || macc: 0.8968
+duration: 18.468613624572754
+epoch 84:
+loss: 1.31 || cls: 0.0107
+train: acc: 0.9838 || macc: 0.9765
+val:   acc: 0.9234 || macc: 0.8974
+duration: 18.453728914260864
+epoch 85:
+loss: 1.3124 || cls: 0.0099
+train: acc: 0.9823 || macc: 0.9737
+val:   acc: 0.9214 || macc: 0.9001
+duration: 18.45040535926819
+epoch 86:
+loss: 1.3096 || cls: 0.01
+train: acc: 0.9836 || macc: 0.9753
+val:   acc: 0.9206 || macc: 0.8948
+duration: 18.435274600982666
+epoch 87:
+loss: 1.3132 || cls: 0.0106
+train: acc: 0.9799 || macc: 0.9702
+val:   acc: 0.921 || macc: 0.8924
+duration: 18.49584698677063
+epoch 88:
+loss: 1.3047 || cls: 0.0097
+train: acc: 0.9832 || macc: 0.9743
+val:   acc: 0.9259 || macc: 0.9074
+duration: 18.47727608680725
+epoch 89:
+loss: 1.3095 || cls: 0.0104
+train: acc: 0.9827 || macc: 0.9739
+val:   acc: 0.9263 || macc: 0.9016
+duration: 18.456121683120728
+epoch 90:
+loss: 1.3031 || cls: 0.0097
+train: acc: 0.9843 || macc: 0.9775
+val:   acc: 0.9218 || macc: 0.9007
+duration: 18.462022304534912
+epoch 91:
+loss: 1.3037 || cls: 0.0095
+train: acc: 0.9845 || macc: 0.977
+val:   acc: 0.925 || macc: 0.9008
+duration: 18.46873641014099
+epoch 92:
+loss: 1.3063 || cls: 0.0103
+train: acc: 0.9822 || macc: 0.9727
+val:   acc: 0.925 || macc: 0.8914
+duration: 18.479743242263794
+epoch 93:
+loss: 1.3068 || cls: 0.0098
+train: acc: 0.9839 || macc: 0.9756
+val:   acc: 0.9246 || macc: 0.9018
+duration: 18.48974108695984
+epoch 94:
+loss: 1.2986 || cls: 0.0094
+train: acc: 0.9868 || macc: 0.9813
+val:   acc: 0.9271 || macc: 0.9041
+duration: 18.490647792816162
+epoch 95:
+loss: 1.2968 || cls: 0.0088
+train: acc: 0.9872 || macc: 0.9815
+val:   acc: 0.9254 || macc: 0.8999
+duration: 18.492096424102783
+epoch 96:
+loss: 1.298 || cls: 0.0093
+train: acc: 0.9866 || macc: 0.9803
+val:   acc: 0.9295 || macc: 0.9047
+duration: 18.47000503540039
+epoch 97:
+loss: 1.2972 || cls: 0.0088
+train: acc: 0.986 || macc: 0.9806
+val:   acc: 0.9295 || macc: 0.9015
+duration: 18.48345685005188
+epoch 98:
+loss: 1.297 || cls: 0.01
+train: acc: 0.9862 || macc: 0.9815
+val:   acc: 0.9169 || macc: 0.9
+duration: 18.494542837142944
+epoch 99:
+loss: 1.2999 || cls: 0.0099
+train: acc: 0.9842 || macc: 0.9774
+val:   acc: 0.9173 || macc: 0.9033
+duration: 18.4686861038208
+epoch 100:
+loss: 1.297 || cls: 0.0096
+train: acc: 0.9867 || macc: 0.9801
+val:   acc: 0.9279 || macc: 0.9058
+duration: 18.461711406707764
+epoch 101:
+loss: 1.3 || cls: 0.0098
+train: acc: 0.9844 || macc: 0.9777
+val:   acc: 0.9275 || macc: 0.8995
+duration: 18.464253664016724
+epoch 102:
+loss: 1.295 || cls: 0.0095
+train: acc: 0.9869 || macc: 0.9814
+val:   acc: 0.9311 || macc: 0.9114
+duration: 18.476399660110474
+new best!
+epoch 103:
+loss: 1.2933 || cls: 0.01
+train: acc: 0.986 || macc: 0.9802
+val:   acc: 0.9303 || macc: 0.9013
+duration: 18.469944715499878
+epoch 104:
+loss: 1.2911 || cls: 0.0091
+train: acc: 0.9892 || macc: 0.9838
+val:   acc: 0.9238 || macc: 0.9133
+duration: 18.487367868423462
+epoch 105:
+loss: 1.2902 || cls: 0.009
+train: acc: 0.9874 || macc: 0.9826
+val:   acc: 0.9311 || macc: 0.9084
+duration: 18.486777305603027
+epoch 106:
+loss: 1.2904 || cls: 0.009
+train: acc: 0.9886 || macc: 0.9845
+val:   acc: 0.9307 || macc: 0.9028
+duration: 18.493763208389282
+epoch 107:
+loss: 1.2894 || cls: 0.0096
+train: acc: 0.9881 || macc: 0.9827
+val:   acc: 0.9287 || macc: 0.9007
+duration: 18.485382556915283
+epoch 108:
+loss: 1.2921 || cls: 0.0098
+train: acc: 0.9883 || macc: 0.9833
+val:   acc: 0.9311 || macc: 0.9004
+duration: 18.46038317680359
+epoch 109:
+loss: 1.2911 || cls: 0.0091
+train: acc: 0.9874 || macc: 0.9814
+val:   acc: 0.9287 || macc: 0.9033
+duration: 18.49951982498169
+epoch 110:
+loss: 1.2904 || cls: 0.0092
+train: acc: 0.9881 || macc: 0.9828
+val:   acc: 0.9222 || macc: 0.9068
+duration: 18.465309858322144
+epoch 111:
+loss: 1.286 || cls: 0.0095
+train: acc: 0.9903 || macc: 0.9851
+val:   acc: 0.9238 || macc: 0.9064
+duration: 18.45620560646057
+epoch 112:
+loss: 1.287 || cls: 0.0092
+train: acc: 0.9886 || macc: 0.9826
+val:   acc: 0.925 || macc: 0.903
+duration: 18.469241619110107
+epoch 113:
+loss: 1.2875 || cls: 0.0092
+train: acc: 0.9889 || macc: 0.9838
+val:   acc: 0.9291 || macc: 0.9071
+duration: 18.50451350212097
+epoch 114:
+loss: 1.2884 || cls: 0.0098
+train: acc: 0.9894 || macc: 0.9852
+val:   acc: 0.9218 || macc: 0.9026
+duration: 18.47470784187317
+epoch 115:
+loss: 1.2885 || cls: 0.0098
+train: acc: 0.988 || macc: 0.9828
+val:   acc: 0.9283 || macc: 0.9035
+duration: 18.462271451950073
+epoch 116:
+loss: 1.2863 || cls: 0.0094
+train: acc: 0.9894 || macc: 0.9858
+val:   acc: 0.9246 || macc: 0.9023
+duration: 18.493876218795776
+epoch 117:
+loss: 1.2835 || cls: 0.0094
+train: acc: 0.9907 || macc: 0.986
+val:   acc: 0.9283 || macc: 0.9009
+duration: 18.46009659767151
+epoch 118:
+loss: 1.2854 || cls: 0.0098
+train: acc: 0.9904 || macc: 0.9864
+val:   acc: 0.9267 || macc: 0.902
+duration: 18.481643676757812
+epoch 119:
+loss: 1.2825 || cls: 0.0088
+train: acc: 0.9897 || macc: 0.9848
+val:   acc: 0.9226 || macc: 0.903
+duration: 18.491183519363403
+epoch 120:
+loss: 1.2821 || cls: 0.0094
+train: acc: 0.991 || macc: 0.9866
+val:   acc: 0.919 || macc: 0.8947
+duration: 18.63779926300049
+epoch 121:
+loss: 1.2836 || cls: 0.0092
+train: acc: 0.9903 || macc: 0.9861
+val:   acc: 0.9283 || macc: 0.9039
+duration: 17.853761434555054
+epoch 122:
+loss: 1.2823 || cls: 0.0096
+train: acc: 0.992 || macc: 0.9893
+val:   acc: 0.925 || macc: 0.902
+duration: 17.788124322891235
+epoch 123:
+loss: 1.2796 || cls: 0.0095
+train: acc: 0.9921 || macc: 0.9889
+val:   acc: 0.9275 || macc: 0.9006
+duration: 17.775490045547485
+epoch 124:
+loss: 1.2802 || cls: 0.0085
+train: acc: 0.9907 || macc: 0.9885
+val:   acc: 0.9202 || macc: 0.8939
+duration: 17.77503728866577
+epoch 125:
+loss: 1.281 || cls: 0.0088
+train: acc: 0.9903 || macc: 0.9862
+val:   acc: 0.9242 || macc: 0.8972
+duration: 17.79889154434204
+epoch 126:
+loss: 1.2801 || cls: 0.0091
+train: acc: 0.9913 || macc: 0.9877
+val:   acc: 0.923 || macc: 0.9031
+duration: 17.778319835662842
+epoch 127:
+loss: 1.2802 || cls: 0.0096
+train: acc: 0.9904 || macc: 0.9862
+val:   acc: 0.9287 || macc: 0.9023
+duration: 17.77273416519165
+epoch 128:
+loss: 1.2767 || cls: 0.0092
+train: acc: 0.9921 || macc: 0.9882
+val:   acc: 0.9259 || macc: 0.8992
+duration: 17.783411264419556
+epoch 129:
+loss: 1.2764 || cls: 0.0086
+train: acc: 0.9928 || macc: 0.9902
+val:   acc: 0.9242 || macc: 0.8988
+duration: 17.790635347366333
+epoch 130:
+loss: 1.2748 || cls: 0.0096
+train: acc: 0.9932 || macc: 0.9895
+val:   acc: 0.9246 || macc: 0.8982
+duration: 17.779628038406372
+epoch 131:
+loss: 1.2756 || cls: 0.0094
+train: acc: 0.992 || macc: 0.9883
+val:   acc: 0.9202 || macc: 0.8965
+duration: 17.77353549003601
+epoch 132:
+loss: 1.2777 || cls: 0.0095
+train: acc: 0.9916 || macc: 0.9882
+val:   acc: 0.9295 || macc: 0.9014
+duration: 17.780805587768555
+epoch 133:
+loss: 1.2762 || cls: 0.0088
+train: acc: 0.9922 || macc: 0.9874
+val:   acc: 0.9283 || macc: 0.9049
+duration: 17.76955819129944
+epoch 134:
+loss: 1.2759 || cls: 0.0091
+train: acc: 0.9922 || macc: 0.989
+val:   acc: 0.9291 || macc: 0.9079
+duration: 17.778421640396118
+epoch 135:
+loss: 1.2764 || cls: 0.0085
+train: acc: 0.9927 || macc: 0.9901
+val:   acc: 0.9311 || macc: 0.9051
+duration: 17.780799388885498
+epoch 136:
+loss: 1.2749 || cls: 0.009
+train: acc: 0.9929 || macc: 0.9898
+val:   acc: 0.9311 || macc: 0.9084
+duration: 17.813685655593872
+epoch 137:
+loss: 1.2726 || cls: 0.0079
+train: acc: 0.9935 || macc: 0.9904
+val:   acc: 0.9242 || macc: 0.906
+duration: 17.780431747436523
+epoch 138:
+loss: 1.2741 || cls: 0.0089
+train: acc: 0.993 || macc: 0.9898
+val:   acc: 0.921 || macc: 0.9011
+duration: 17.777152061462402
+epoch 139:
+loss: 1.2718 || cls: 0.0091
+train: acc: 0.9945 || macc: 0.9916
+val:   acc: 0.9242 || macc: 0.9013
+duration: 17.773122549057007
+epoch 140:
+loss: 1.2734 || cls: 0.0091
+train: acc: 0.9935 || macc: 0.9894
+val:   acc: 0.9254 || macc: 0.8972
+duration: 17.810205459594727
+epoch 141:
+loss: 1.2714 || cls: 0.0099
+train: acc: 0.9947 || macc: 0.9927
+val:   acc: 0.9291 || macc: 0.8979
+duration: 18.248440980911255
+epoch 142:
+loss: 1.2694 || cls: 0.0089
+train: acc: 0.9946 || macc: 0.9921
+val:   acc: 0.9287 || macc: 0.9079
+duration: 17.80445671081543
+epoch 143:
+loss: 1.271 || cls: 0.008
+train: acc: 0.994 || macc: 0.9919
+val:   acc: 0.9299 || macc: 0.9011
+duration: 17.811925172805786
+epoch 144:
+loss: 1.2726 || cls: 0.0088
+train: acc: 0.9921 || macc: 0.9887
+val:   acc: 0.9283 || macc: 0.9006
+duration: 17.8175106048584
+epoch 145:
+loss: 1.2719 || cls: 0.0092
+train: acc: 0.9925 || macc: 0.9888
+val:   acc: 0.9242 || macc: 0.8909
+duration: 17.803593158721924
+epoch 146:
+loss: 1.2716 || cls: 0.0085
+train: acc: 0.9936 || macc: 0.9907
+val:   acc: 0.9303 || macc: 0.9044
+duration: 17.76216959953308
+epoch 147:
+loss: 1.2689 || cls: 0.009
+train: acc: 0.9956 || macc: 0.9938
+val:   acc: 0.9254 || macc: 0.905
+duration: 17.777565240859985
+epoch 148:
+loss: 1.2689 || cls: 0.0088
+train: acc: 0.9945 || macc: 0.9918
+val:   acc: 0.9267 || macc: 0.9002
+duration: 17.76509952545166
+epoch 149:
+loss: 1.2702 || cls: 0.0089
+train: acc: 0.9949 || macc: 0.9929
+val:   acc: 0.9299 || macc: 0.9015
+duration: 17.796284437179565
+epoch 150:
+loss: 1.2689 || cls: 0.0086
+train: acc: 0.9952 || macc: 0.9924
+val:   acc: 0.9259 || macc: 0.9037
+duration: 17.80255436897278
+epoch 151:
+loss: 1.2675 || cls: 0.0091
+train: acc: 0.9952 || macc: 0.993
+val:   acc: 0.9279 || macc: 0.9019
+duration: 17.80449414253235
+epoch 152:
+loss: 1.2705 || cls: 0.0084
+train: acc: 0.9937 || macc: 0.9913
+val:   acc: 0.9295 || macc: 0.9035
+duration: 17.81782555580139
+epoch 153:
+loss: 1.2685 || cls: 0.0084
+train: acc: 0.9948 || macc: 0.9923
+val:   acc: 0.9335 || macc: 0.9037
+duration: 17.80013942718506
+new best!
+epoch 154:
+loss: 1.2722 || cls: 0.0087
+train: acc: 0.9931 || macc: 0.9912
+val:   acc: 0.9238 || macc: 0.9044
+duration: 17.803968906402588
+epoch 155:
+loss: 1.2667 || cls: 0.0087
+train: acc: 0.9946 || macc: 0.993
+val:   acc: 0.9263 || macc: 0.8973
+duration: 17.813231945037842
+epoch 156:
+loss: 1.2666 || cls: 0.0083
+train: acc: 0.9945 || macc: 0.993
+val:   acc: 0.9259 || macc: 0.8998
+duration: 17.825279474258423
+epoch 157:
+loss: 1.2654 || cls: 0.0081
+train: acc: 0.9963 || macc: 0.9947
+val:   acc: 0.9303 || macc: 0.9033
+duration: 17.800031661987305
+epoch 158:
+loss: 1.2647 || cls: 0.0082
+train: acc: 0.9959 || macc: 0.9942
+val:   acc: 0.9246 || macc: 0.903
+duration: 17.8033390045166
+epoch 159:
+loss: 1.2643 || cls: 0.008
+train: acc: 0.9959 || macc: 0.9945
+val:   acc: 0.9287 || macc: 0.901
+duration: 17.80060601234436
+epoch 160:
+loss: 1.2653 || cls: 0.0089
+train: acc: 0.9946 || macc: 0.9929
+val:   acc: 0.9267 || macc: 0.8971
+duration: 17.796048879623413
+epoch 161:
+loss: 1.2671 || cls: 0.0083
+train: acc: 0.9946 || macc: 0.9925
+val:   acc: 0.9315 || macc: 0.906
+duration: 17.814617156982422
+epoch 162:
+loss: 1.2637 || cls: 0.0086
+train: acc: 0.9954 || macc: 0.9939
+val:   acc: 0.9311 || macc: 0.9041
+duration: 17.803313970565796
+epoch 163:
+loss: 1.2645 || cls: 0.0085
+train: acc: 0.996 || macc: 0.9941
+val:   acc: 0.9372 || macc: 0.9064
+duration: 17.812731981277466
+new best!
+epoch 164:
+loss: 1.2669 || cls: 0.0087
+train: acc: 0.9944 || macc: 0.9921
+val:   acc: 0.9283 || macc: 0.9085
+duration: 17.793545722961426
+epoch 165:
+loss: 1.2658 || cls: 0.0087
+train: acc: 0.9951 || macc: 0.9933
+val:   acc: 0.9331 || macc: 0.9064
+duration: 17.817320346832275
+epoch 166:
+loss: 1.2625 || cls: 0.0078
+train: acc: 0.9966 || macc: 0.9949
+val:   acc: 0.9271 || macc: 0.9054
+duration: 17.809532165527344
+epoch 167:
+loss: 1.264 || cls: 0.0078
+train: acc: 0.9952 || macc: 0.9931
+val:   acc: 0.9283 || macc: 0.9049
+duration: 17.80910038948059
+epoch 168:
+loss: 1.262 || cls: 0.0078
+train: acc: 0.9956 || macc: 0.9934
+val:   acc: 0.919 || macc: 0.8939
+duration: 17.81406044960022
+epoch 169:
+loss: 1.266 || cls: 0.0092
+train: acc: 0.9946 || macc: 0.9917
+val:   acc: 0.9323 || macc: 0.9008
+duration: 17.820039749145508
+epoch 170:
+loss: 1.2629 || cls: 0.009
+train: acc: 0.997 || macc: 0.9956
+val:   acc: 0.9287 || macc: 0.9087
+duration: 17.81230115890503
+epoch 171:
+loss: 1.2615 || cls: 0.0077
+train: acc: 0.9962 || macc: 0.9946
+val:   acc: 0.9295 || macc: 0.9048
+duration: 17.812262058258057
+epoch 172:
+loss: 1.2617 || cls: 0.0084
+train: acc: 0.9963 || macc: 0.9944
+val:   acc: 0.925 || macc: 0.8924
+duration: 17.799291610717773
+epoch 173:
+loss: 1.2613 || cls: 0.0082
+train: acc: 0.9959 || macc: 0.9945
+val:   acc: 0.9307 || macc: 0.9052
+duration: 17.80929923057556
+epoch 174:
+loss: 1.2616 || cls: 0.0083
+train: acc: 0.9957 || macc: 0.9942
+val:   acc: 0.9275 || macc: 0.8972
+duration: 17.819015979766846
+epoch 175:
+loss: 1.2614 || cls: 0.0082
+train: acc: 0.9958 || macc: 0.9944
+val:   acc: 0.9311 || macc: 0.9037
+duration: 17.803470849990845
+epoch 176:
+loss: 1.2612 || cls: 0.0078
+train: acc: 0.9962 || macc: 0.9953
+val:   acc: 0.9315 || macc: 0.8979
+duration: 17.80863618850708
+epoch 177:
+loss: 1.2609 || cls: 0.0085
+train: acc: 0.9961 || macc: 0.9944
+val:   acc: 0.919 || macc: 0.9051
+duration: 17.79710578918457
+epoch 178:
+loss: 1.2631 || cls: 0.0082
+train: acc: 0.9956 || macc: 0.9931
+val:   acc: 0.9259 || macc: 0.903
+duration: 17.796802043914795
+epoch 179:
+loss: 1.2583 || cls: 0.0079
+train: acc: 0.9969 || macc: 0.9958
+val:   acc: 0.9319 || macc: 0.9034
+duration: 17.788682222366333
+epoch 180:
+loss: 1.2584 || cls: 0.0084
+train: acc: 0.9973 || macc: 0.9965
+val:   acc: 0.9299 || macc: 0.9079
+duration: 17.812739849090576
+epoch 181:
+loss: 1.2618 || cls: 0.0086
+train: acc: 0.9959 || macc: 0.994
+val:   acc: 0.9303 || macc: 0.903
+duration: 17.803757429122925
+epoch 182:
+loss: 1.2579 || cls: 0.0079
+train: acc: 0.9975 || macc: 0.9963
+val:   acc: 0.9299 || macc: 0.9026
+duration: 17.80220103263855
+epoch 183:
+loss: 1.2604 || cls: 0.0087
+train: acc: 0.9962 || macc: 0.9946
+val:   acc: 0.9263 || macc: 0.8986
+duration: 17.8026864528656
+epoch 184:
+loss: 1.2595 || cls: 0.0085
+train: acc: 0.9968 || macc: 0.9956
+val:   acc: 0.934 || macc: 0.9055
+duration: 17.79875659942627
+epoch 185:
+loss: 1.2627 || cls: 0.0083
+train: acc: 0.9952 || macc: 0.9931
+val:   acc: 0.9315 || macc: 0.9026
+duration: 17.804339170455933
+epoch 186:
+loss: 1.2602 || cls: 0.0081
+train: acc: 0.9963 || macc: 0.9946
+val:   acc: 0.9331 || macc: 0.9019
+duration: 17.811708211898804
+epoch 187:
+loss: 1.2581 || cls: 0.0085
+train: acc: 0.9967 || macc: 0.9951
+val:   acc: 0.9283 || macc: 0.8998
+duration: 17.791881322860718
+epoch 188:
+loss: 1.2587 || cls: 0.0079
+train: acc: 0.9974 || macc: 0.9962
+val:   acc: 0.9311 || macc: 0.9067
+duration: 17.80647087097168
+epoch 189:
+loss: 1.257 || cls: 0.0081
+train: acc: 0.9973 || macc: 0.9965
+val:   acc: 0.9323 || macc: 0.9013
+duration: 17.809571504592896
+epoch 190:
+loss: 1.257 || cls: 0.008
+train: acc: 0.9976 || macc: 0.9966
+val:   acc: 0.9327 || macc: 0.9059
+duration: 17.805318593978882
+epoch 191:
+loss: 1.2567 || cls: 0.0078
+train: acc: 0.9977 || macc: 0.9965
+val:   acc: 0.9323 || macc: 0.9048
+duration: 17.799901962280273
+epoch 192:
+loss: 1.2547 || cls: 0.0088
+train: acc: 0.998 || macc: 0.9969
+val:   acc: 0.9311 || macc: 0.906
+duration: 17.801673412322998
+epoch 193:
+loss: 1.257 || cls: 0.0083
+train: acc: 0.9973 || macc: 0.996
+val:   acc: 0.9315 || macc: 0.9087
+duration: 17.798218250274658
+epoch 194:
+loss: 1.2557 || cls: 0.0078
+train: acc: 0.998 || macc: 0.997
+val:   acc: 0.9295 || macc: 0.904
+duration: 17.808072805404663
+epoch 195:
+loss: 1.2564 || cls: 0.0084
+train: acc: 0.9967 || macc: 0.9954
+val:   acc: 0.9295 || macc: 0.9049
+duration: 17.804365158081055
+epoch 196:
+loss: 1.2553 || cls: 0.0086
+train: acc: 0.9983 || macc: 0.9979
+val:   acc: 0.9271 || macc: 0.9037
+duration: 17.79640817642212
+epoch 197:
+loss: 1.2563 || cls: 0.0083
+train: acc: 0.9975 || macc: 0.997
+val:   acc: 0.9279 || macc: 0.8965
+duration: 17.80798625946045
+epoch 198:
+loss: 1.2576 || cls: 0.0083
+train: acc: 0.9967 || macc: 0.9954
+val:   acc: 0.9331 || macc: 0.9122
+duration: 17.809496879577637
+epoch 199:
+loss: 1.2567 || cls: 0.0082
+train: acc: 0.9968 || macc: 0.9954
+val:   acc: 0.936 || macc: 0.9109
+duration: 17.815274953842163
+epoch 200:
+loss: 1.2554 || cls: 0.0075
+train: acc: 0.9974 || macc: 0.9963
+val:   acc: 0.936 || macc: 0.9117
+duration: 17.80216693878174
+epoch 201:
+loss: 1.2539 || cls: 0.0079
+train: acc: 0.9981 || macc: 0.9973
+val:   acc: 0.9319 || macc: 0.9058
+duration: 17.800349950790405
+epoch 202:
+loss: 1.2539 || cls: 0.0083
+train: acc: 0.9982 || macc: 0.997
+val:   acc: 0.9311 || macc: 0.9082
+duration: 17.81800866127014
+epoch 203:
+loss: 1.2549 || cls: 0.0084
+train: acc: 0.9982 || macc: 0.9969
+val:   acc: 0.9299 || macc: 0.9009
+duration: 17.799349308013916
+epoch 204:
+loss: 1.2531 || cls: 0.0076
+train: acc: 0.9985 || macc: 0.9976
+val:   acc: 0.9344 || macc: 0.9102
+duration: 17.785717248916626
+epoch 205:
+loss: 1.255 || cls: 0.0084
+train: acc: 0.9976 || macc: 0.9966
+val:   acc: 0.9307 || macc: 0.9088
+duration: 17.805243730545044
+epoch 206:
+loss: 1.254 || cls: 0.0081
+train: acc: 0.9975 || macc: 0.9968
+val:   acc: 0.9295 || macc: 0.9046
+duration: 17.80900526046753
+epoch 207:
+loss: 1.2556 || cls: 0.0081
+train: acc: 0.9977 || macc: 0.9973
+val:   acc: 0.9319 || macc: 0.9022
+duration: 17.806856393814087
+epoch 208:
+loss: 1.256 || cls: 0.0083
+train: acc: 0.997 || macc: 0.9959
+val:   acc: 0.9279 || macc: 0.9027
+duration: 17.832412481307983
+epoch 209:
+loss: 1.2546 || cls: 0.0081
+train: acc: 0.9973 || macc: 0.9967
+val:   acc: 0.9299 || macc: 0.9051
+duration: 17.801958084106445
+epoch 210:
+loss: 1.2535 || cls: 0.0082
+train: acc: 0.9979 || macc: 0.997
+val:   acc: 0.9331 || macc: 0.9069
+duration: 17.823588848114014
+epoch 211:
+loss: 1.2554 || cls: 0.0085
+train: acc: 0.9968 || macc: 0.9955
+val:   acc: 0.9291 || macc: 0.9077
+duration: 17.804274082183838
+epoch 212:
+loss: 1.2526 || cls: 0.0081
+train: acc: 0.9986 || macc: 0.9977
+val:   acc: 0.9307 || macc: 0.9056
+duration: 17.79064178466797
+epoch 213:
+loss: 1.2527 || cls: 0.008
+train: acc: 0.9982 || macc: 0.9974
+val:   acc: 0.9291 || macc: 0.9079
+duration: 17.811421871185303
+epoch 214:
+loss: 1.2511 || cls: 0.008
+train: acc: 0.9979 || macc: 0.9971
+val:   acc: 0.9331 || macc: 0.9089
+duration: 17.800386667251587
+epoch 215:
+loss: 1.2504 || cls: 0.0073
+train: acc: 0.9989 || macc: 0.9986
+val:   acc: 0.9356 || macc: 0.9049
+duration: 17.818989276885986
+epoch 216:
+loss: 1.2526 || cls: 0.0078
+train: acc: 0.9982 || macc: 0.9974
+val:   acc: 0.925 || macc: 0.898
+duration: 17.80996084213257
+epoch 217:
+loss: 1.2513 || cls: 0.0079
+train: acc: 0.9981 || macc: 0.9976
+val:   acc: 0.9311 || macc: 0.9038
+duration: 17.803377389907837
+epoch 218:
+loss: 1.2509 || cls: 0.0082
+train: acc: 0.9979 || macc: 0.9967
+val:   acc: 0.9303 || macc: 0.9036
+duration: 17.813751220703125
+epoch 219:
+loss: 1.2512 || cls: 0.0086
+train: acc: 0.9983 || macc: 0.9974
+val:   acc: 0.9287 || macc: 0.901
+duration: 17.82131838798523
+epoch 220:
+loss: 1.2497 || cls: 0.0071
+train: acc: 0.9986 || macc: 0.9977
+val:   acc: 0.9327 || macc: 0.9054
+duration: 17.809077262878418
+epoch 221:
+loss: 1.2524 || cls: 0.0083
+train: acc: 0.9979 || macc: 0.9972
+val:   acc: 0.9311 || macc: 0.9007
+duration: 17.80123519897461
+epoch 222:
+loss: 1.253 || cls: 0.0084
+train: acc: 0.9971 || macc: 0.9963
+val:   acc: 0.9303 || macc: 0.9024
+duration: 17.82553791999817
+epoch 223:
+loss: 1.2501 || cls: 0.008
+train: acc: 0.9989 || macc: 0.9987
+val:   acc: 0.9299 || macc: 0.903
+duration: 17.81470537185669
+epoch 224:
+loss: 1.2507 || cls: 0.0077
+train: acc: 0.9985 || macc: 0.9977
+val:   acc: 0.9307 || macc: 0.9044
+duration: 17.80760955810547
+epoch 225:
+loss: 1.2529 || cls: 0.0081
+train: acc: 0.9978 || macc: 0.997
+val:   acc: 0.9275 || macc: 0.9018
+duration: 17.799494743347168
+epoch 226:
+loss: 1.2515 || cls: 0.0083
+train: acc: 0.9983 || macc: 0.9977
+val:   acc: 0.9323 || macc: 0.9012
+duration: 17.80914831161499
+epoch 227:
+loss: 1.2519 || cls: 0.0085
+train: acc: 0.9982 || macc: 0.9977
+val:   acc: 0.9372 || macc: 0.9086
+duration: 17.816535472869873
+epoch 228:
+loss: 1.2512 || cls: 0.0081
+train: acc: 0.9978 || macc: 0.9966
+val:   acc: 0.9295 || macc: 0.8991
+duration: 17.8057382106781
+epoch 229:
+loss: 1.2512 || cls: 0.0084
+train: acc: 0.9979 || macc: 0.997
+val:   acc: 0.9279 || macc: 0.9008
+duration: 17.828838348388672
+epoch 230:
+loss: 1.2489 || cls: 0.0077
+train: acc: 0.9984 || macc: 0.9979
+val:   acc: 0.9315 || macc: 0.9046
+duration: 17.806421518325806
+epoch 231:
+loss: 1.248 || cls: 0.008
+train: acc: 0.9994 || macc: 0.9993
+val:   acc: 0.9299 || macc: 0.9061
+duration: 17.807479858398438
+epoch 232:
+loss: 1.2489 || cls: 0.0075
+train: acc: 0.9995 || macc: 0.9994
+val:   acc: 0.9327 || macc: 0.9077
+duration: 17.92979669570923
+epoch 233:
+loss: 1.249 || cls: 0.0082
+train: acc: 0.9988 || macc: 0.9986
+val:   acc: 0.9303 || macc: 0.9087
+duration: 17.916032552719116
+epoch 234:
+loss: 1.25 || cls: 0.0082
+train: acc: 0.9981 || macc: 0.9971
+val:   acc: 0.9352 || macc: 0.9109
+duration: 17.8181209564209
+epoch 235:
+loss: 1.2483 || cls: 0.0079
+train: acc: 0.9992 || macc: 0.9989
+val:   acc: 0.9352 || macc: 0.913
+duration: 17.829777479171753
+epoch 236:
+loss: 1.2484 || cls: 0.0074
+train: acc: 0.999 || macc: 0.9985
+val:   acc: 0.9315 || macc: 0.9088
+duration: 17.801215887069702
+epoch 237:
+loss: 1.2502 || cls: 0.0083
+train: acc: 0.998 || macc: 0.9972
+val:   acc: 0.9303 || macc: 0.9024
+duration: 17.808067083358765
+epoch 238:
+loss: 1.2483 || cls: 0.008
+train: acc: 0.9991 || macc: 0.9984
+val:   acc: 0.936 || macc: 0.9117
+duration: 17.820169687271118
+epoch 239:
+loss: 1.2497 || cls: 0.0075
+train: acc: 0.9982 || macc: 0.9975
+val:   acc: 0.9263 || macc: 0.9005
+duration: 17.8231782913208
+epoch 240:
+loss: 1.249 || cls: 0.0076
+train: acc: 0.9986 || macc: 0.9981
+val:   acc: 0.9348 || macc: 0.9079
+duration: 17.814339637756348
+epoch 241:
+loss: 1.2489 || cls: 0.0073
+train: acc: 0.9987 || macc: 0.9981
+val:   acc: 0.9279 || macc: 0.9006
+duration: 17.81146478652954
+epoch 242:
+loss: 1.2484 || cls: 0.0074
+train: acc: 0.9983 || macc: 0.9967
+val:   acc: 0.934 || macc: 0.9084
+duration: 17.81868577003479
+epoch 243:
+loss: 1.248 || cls: 0.0075
+train: acc: 0.9988 || macc: 0.9984
+val:   acc: 0.9348 || macc: 0.908
+duration: 17.80410671234131
+epoch 244:
+loss: 1.2478 || cls: 0.0074
+train: acc: 0.9991 || macc: 0.9988
+val:   acc: 0.9327 || macc: 0.9038
+duration: 17.81331992149353
+epoch 245:
+loss: 1.2475 || cls: 0.0076
+train: acc: 0.999 || macc: 0.9985
+val:   acc: 0.9315 || macc: 0.9061
+duration: 17.822590112686157
+epoch 246:
+loss: 1.2477 || cls: 0.0075
+train: acc: 0.9989 || macc: 0.9981
+val:   acc: 0.9311 || macc: 0.9004
+duration: 17.800061225891113
+epoch 247:
+loss: 1.2481 || cls: 0.0073
+train: acc: 0.9993 || macc: 0.9992
+val:   acc: 0.9319 || macc: 0.9011
+duration: 17.819738388061523
+epoch 248:
+loss: 1.2465 || cls: 0.0079
+train: acc: 0.9995 || macc: 0.9993
+val:   acc: 0.9287 || macc: 0.9043
+duration: 17.826894521713257
+epoch 249:
+loss: 1.2474 || cls: 0.0083
+train: acc: 0.9991 || macc: 0.9988
+val:   acc: 0.9335 || macc: 0.9117
+duration: 17.819789171218872
+epoch 250:
+loss: 1.2467 || cls: 0.0081
+train: acc: 0.9991 || macc: 0.9986
+val:   acc: 0.9307 || macc: 0.9008
+duration: 17.81656575202942
+epoch 251:
+loss: 1.2467 || cls: 0.0073
+train: acc: 0.9993 || macc: 0.9988
+val:   acc: 0.9315 || macc: 0.9019
+duration: 17.828959703445435
+epoch 252:
+loss: 1.2464 || cls: 0.008
+train: acc: 0.999 || macc: 0.9985
+val:   acc: 0.9331 || macc: 0.9092
+duration: 17.81618332862854
+epoch 253:
+loss: 1.2475 || cls: 0.0076
+train: acc: 0.9989 || macc: 0.9985
+val:   acc: 0.934 || macc: 0.9151
+duration: 17.800853729248047
+epoch 254:
+loss: 1.2456 || cls: 0.0077
+train: acc: 0.9993 || macc: 0.999
+val:   acc: 0.934 || macc: 0.9079
+duration: 17.80499577522278
+epoch 255:
+loss: 1.2454 || cls: 0.008
+train: acc: 0.9992 || macc: 0.9985
+val:   acc: 0.9335 || macc: 0.9104
+duration: 17.81432604789734
+epoch 256:
+loss: 1.246 || cls: 0.0077
+train: acc: 0.9994 || macc: 0.999
+val:   acc: 0.936 || macc: 0.9102
+duration: 17.814044713974
+epoch 257:
+loss: 1.2447 || cls: 0.0071
+train: acc: 0.9997 || macc: 0.9997
+val:   acc: 0.9299 || macc: 0.9002
+duration: 17.820985555648804
+epoch 258:
+loss: 1.2453 || cls: 0.0082
+train: acc: 0.999 || macc: 0.9981
+val:   acc: 0.9327 || macc: 0.9079
+duration: 17.811579704284668
+epoch 259:
+loss: 1.2475 || cls: 0.008
+train: acc: 0.9991 || macc: 0.9987
+val:   acc: 0.9295 || macc: 0.9049
+duration: 17.82491707801819
+epoch 260:
+loss: 1.2463 || cls: 0.0069
+train: acc: 0.9992 || macc: 0.999
+val:   acc: 0.9303 || macc: 0.9064
+duration: 17.814005851745605
+epoch 261:
+loss: 1.2461 || cls: 0.0079
+train: acc: 0.9988 || macc: 0.9982
+val:   acc: 0.9267 || macc: 0.8958
+duration: 17.79794406890869
+epoch 262:
+loss: 1.2462 || cls: 0.0076
+train: acc: 0.9991 || macc: 0.9986
+val:   acc: 0.9315 || macc: 0.9065
+duration: 17.80521821975708
+epoch 263:
+loss: 1.2462 || cls: 0.0079
+train: acc: 0.9987 || macc: 0.9983
+val:   acc: 0.9311 || macc: 0.9048
+duration: 17.802851915359497
+epoch 264:
+loss: 1.2471 || cls: 0.0081
+train: acc: 0.9987 || macc: 0.9984
+val:   acc: 0.9246 || macc: 0.8992
+duration: 17.813451528549194
+epoch 265:
+loss: 1.2471 || cls: 0.0078
+train: acc: 0.9986 || macc: 0.9974
+val:   acc: 0.9331 || macc: 0.904
+duration: 17.808394193649292
+epoch 266:
+loss: 1.2461 || cls: 0.008
+train: acc: 0.9987 || macc: 0.9981
+val:   acc: 0.9327 || macc: 0.9112
+duration: 17.79712438583374
+epoch 267:
+loss: 1.2451 || cls: 0.0077
+train: acc: 0.9988 || macc: 0.9982
+val:   acc: 0.9348 || macc: 0.9082
+duration: 17.81228804588318
+epoch 268:
+loss: 1.2448 || cls: 0.0074
+train: acc: 0.9992 || macc: 0.9986
+val:   acc: 0.934 || macc: 0.9095
+duration: 17.8216450214386
+epoch 269:
+loss: 1.244 || cls: 0.0072
+train: acc: 0.9992 || macc: 0.9986
+val:   acc: 0.936 || macc: 0.9121
+duration: 17.804842710494995
+epoch 270:
+loss: 1.244 || cls: 0.007
+train: acc: 0.9994 || macc: 0.999
+val:   acc: 0.936 || macc: 0.9068
+duration: 17.810380697250366
+epoch 271:
+loss: 1.245 || cls: 0.008
+train: acc: 0.9988 || macc: 0.9983
+val:   acc: 0.9279 || macc: 0.9037
+duration: 17.813505172729492
+epoch 272:
+loss: 1.2438 || cls: 0.0081
+train: acc: 0.9993 || macc: 0.999
+val:   acc: 0.9368 || macc: 0.9165
+duration: 17.82241153717041
+epoch 273:
+loss: 1.245 || cls: 0.0084
+train: acc: 0.9986 || macc: 0.998
+val:   acc: 0.9271 || macc: 0.9002
+duration: 17.809544801712036
+epoch 274:
+loss: 1.2442 || cls: 0.0073
+train: acc: 0.9993 || macc: 0.9991
+val:   acc: 0.9372 || macc: 0.9083
+duration: 17.80927848815918
+epoch 275:
+loss: 1.2438 || cls: 0.0072
+train: acc: 0.9996 || macc: 0.9995
+val:   acc: 0.9323 || macc: 0.9079
+duration: 17.829591751098633
+epoch 276:
+loss: 1.2447 || cls: 0.0076
+train: acc: 0.9992 || macc: 0.9985
+val:   acc: 0.9283 || macc: 0.9001
+duration: 17.8168842792511
+epoch 277:
+loss: 1.2429 || cls: 0.0073
+train: acc: 0.9995 || macc: 0.9991
+val:   acc: 0.9319 || macc: 0.9038
+duration: 17.80521821975708
+epoch 278:
+loss: 1.2429 || cls: 0.0076
+train: acc: 0.9997 || macc: 0.9995
+val:   acc: 0.9335 || macc: 0.9075
+duration: 17.82074785232544
+epoch 279:
+loss: 1.2432 || cls: 0.0078
+train: acc: 0.9989 || macc: 0.9984
+val:   acc: 0.9319 || macc: 0.9058
+duration: 17.825044870376587
+epoch 280:
+loss: 1.2436 || cls: 0.0085
+train: acc: 0.9989 || macc: 0.9982
+val:   acc: 0.9303 || macc: 0.9013
+duration: 17.80729079246521
+epoch 281:
+loss: 1.2436 || cls: 0.0077
+train: acc: 0.9994 || macc: 0.9992
+val:   acc: 0.9295 || macc: 0.9027
+duration: 17.819555044174194
+epoch 282:
+loss: 1.2433 || cls: 0.008
+train: acc: 0.9993 || macc: 0.999
+val:   acc: 0.934 || macc: 0.9085
+duration: 17.80551791191101
+epoch 283:
+loss: 1.2431 || cls: 0.0067
+train: acc: 0.9996 || macc: 0.9994
+val:   acc: 0.9323 || macc: 0.9087
+duration: 17.812239408493042
+epoch 284:
+loss: 1.2434 || cls: 0.0075
+train: acc: 0.9992 || macc: 0.999
+val:   acc: 0.9259 || macc: 0.9045
+duration: 17.808343648910522
+epoch 285:
+loss: 1.2436 || cls: 0.0076
+train: acc: 0.999 || macc: 0.9987
+val:   acc: 0.9311 || macc: 0.9096
+duration: 17.810494661331177
+epoch 286:
+loss: 1.2448 || cls: 0.0085
+train: acc: 0.9988 || macc: 0.9984
+val:   acc: 0.9299 || macc: 0.9045
+duration: 17.80311131477356
+epoch 287:
+loss: 1.2419 || cls: 0.0077
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9283 || macc: 0.9138
+duration: 17.8102970123291
+epoch 288:
+loss: 1.2433 || cls: 0.0075
+train: acc: 0.9989 || macc: 0.9986
+val:   acc: 0.9307 || macc: 0.9056
+duration: 17.82616138458252
+epoch 289:
+loss: 1.2425 || cls: 0.0071
+train: acc: 0.9995 || macc: 0.9993
+val:   acc: 0.9303 || macc: 0.9031
+duration: 17.83196210861206
+epoch 290:
+loss: 1.2423 || cls: 0.0074
+train: acc: 0.9993 || macc: 0.999
+val:   acc: 0.9311 || macc: 0.9069
+duration: 17.808802604675293
+epoch 291:
+loss: 1.2419 || cls: 0.0076
+train: acc: 0.9995 || macc: 0.9993
+val:   acc: 0.9259 || macc: 0.9028
+duration: 17.627241849899292
+epoch 292:
+loss: 1.242 || cls: 0.0076
+train: acc: 0.9996 || macc: 0.9994
+val:   acc: 0.9319 || macc: 0.9126
+duration: 17.7550311088562
+epoch 293:
+loss: 1.2419 || cls: 0.0069
+train: acc: 0.9993 || macc: 0.9989
+val:   acc: 0.9295 || macc: 0.9018
+duration: 17.817408323287964
+epoch 294:
+loss: 1.242 || cls: 0.0078
+train: acc: 0.9997 || macc: 0.9996
+val:   acc: 0.9283 || macc: 0.9049
+duration: 17.805922031402588
+epoch 295:
+loss: 1.2423 || cls: 0.0075
+train: acc: 0.9991 || macc: 0.9986
+val:   acc: 0.9352 || macc: 0.9084
+duration: 18.027547359466553
+epoch 296:
+loss: 1.2414 || cls: 0.0074
+train: acc: 0.9994 || macc: 0.9992
+val:   acc: 0.9295 || macc: 0.8997
+duration: 17.834086179733276
+epoch 297:
+loss: 1.2414 || cls: 0.0073
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9299 || macc: 0.9064
+duration: 17.820477962493896
+epoch 298:
+loss: 1.2414 || cls: 0.0076
+train: acc: 0.9997 || macc: 0.9995
+val:   acc: 0.9315 || macc: 0.9042
+duration: 17.828758716583252
+epoch 299:
+loss: 1.2419 || cls: 0.0073
+train: acc: 0.9994 || macc: 0.9991
+val:   acc: 0.9348 || macc: 0.9043
+duration: 17.80684518814087
+epoch 300:
+loss: 1.2414 || cls: 0.0073
+train: acc: 0.9996 || macc: 0.9994
+val:   acc: 0.934 || macc: 0.9045
+duration: 17.572444438934326
+epoch 301:
+loss: 1.2417 || cls: 0.0072
+train: acc: 0.9997 || macc: 0.9996
+val:   acc: 0.9331 || macc: 0.9095
+duration: 17.71837830543518
+epoch 302:
+loss: 1.2409 || cls: 0.0071
+train: acc: 0.9995 || macc: 0.9993
+val:   acc: 0.9331 || macc: 0.9057
+duration: 17.784068822860718
+epoch 303:
+loss: 1.2401 || cls: 0.0072
+train: acc: 0.9997 || macc: 0.9993
+val:   acc: 0.9327 || macc: 0.9077
+duration: 17.797727346420288
+epoch 304:
+loss: 1.2409 || cls: 0.0069
+train: acc: 0.9997 || macc: 0.9996
+val:   acc: 0.9307 || macc: 0.9075
+duration: 17.90235686302185
+epoch 305:
+loss: 1.2407 || cls: 0.0074
+train: acc: 0.9994 || macc: 0.9993
+val:   acc: 0.934 || macc: 0.9058
+duration: 17.866190910339355
+epoch 306:
+loss: 1.2418 || cls: 0.0077
+train: acc: 0.9995 || macc: 0.9993
+val:   acc: 0.9303 || macc: 0.9025
+duration: 17.90861487388611
+epoch 307:
+loss: 1.2411 || cls: 0.0076
+train: acc: 0.9993 || macc: 0.9987
+val:   acc: 0.9299 || macc: 0.909
+duration: 17.83806324005127
+epoch 308:
+loss: 1.2407 || cls: 0.0069
+train: acc: 0.9998 || macc: 0.9996
+val:   acc: 0.9287 || macc: 0.9012
+duration: 17.83500075340271
+epoch 309:
+loss: 1.2408 || cls: 0.0073
+train: acc: 0.9994 || macc: 0.9991
+val:   acc: 0.9283 || macc: 0.9012
+duration: 17.82852840423584
+epoch 310:
+loss: 1.2421 || cls: 0.0085
+train: acc: 0.9991 || macc: 0.9991
+val:   acc: 0.9311 || macc: 0.9055
+duration: 17.821142435073853
+epoch 311:
+loss: 1.2416 || cls: 0.0078
+train: acc: 0.9992 || macc: 0.999
+val:   acc: 0.9315 || macc: 0.912
+duration: 17.757495880126953
+epoch 312:
+loss: 1.2404 || cls: 0.0072
+train: acc: 0.9996 || macc: 0.9993
+val:   acc: 0.9263 || macc: 0.904
+duration: 17.772841215133667
+epoch 313:
+loss: 1.2419 || cls: 0.0074
+train: acc: 0.999 || macc: 0.9986
+val:   acc: 0.934 || macc: 0.9068
+duration: 17.81265425682068
+epoch 314:
+loss: 1.2411 || cls: 0.0076
+train: acc: 0.9993 || macc: 0.9991
+val:   acc: 0.9295 || macc: 0.9061
+duration: 17.807385683059692
+epoch 315:
+loss: 1.2399 || cls: 0.0072
+train: acc: 0.9995 || macc: 0.9991
+val:   acc: 0.9364 || macc: 0.912
+duration: 17.743061780929565
+epoch 316:
+loss: 1.2385 || cls: 0.0071
+train: acc: 0.9997 || macc: 0.9996
+val:   acc: 0.9331 || macc: 0.9092
+duration: 17.771929025650024
+epoch 317:
+loss: 1.2393 || cls: 0.0069
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9331 || macc: 0.9049
+duration: 17.80224847793579
+epoch 318:
+loss: 1.2399 || cls: 0.0071
+train: acc: 0.9996 || macc: 0.9994
+val:   acc: 0.9271 || macc: 0.9029
+duration: 17.863266706466675
+epoch 319:
+loss: 1.2408 || cls: 0.0078
+train: acc: 0.999 || macc: 0.9986
+val:   acc: 0.9319 || macc: 0.903
+duration: 17.865244388580322
+epoch 320:
+loss: 1.2401 || cls: 0.0075
+train: acc: 0.9996 || macc: 0.9994
+val:   acc: 0.9344 || macc: 0.9037
+duration: 17.83849596977234
+epoch 321:
+loss: 1.2394 || cls: 0.0068
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9267 || macc: 0.9029
+duration: 17.829509735107422
+epoch 322:
+loss: 1.2398 || cls: 0.0077
+train: acc: 0.9994 || macc: 0.9993
+val:   acc: 0.9327 || macc: 0.9002
+duration: 17.830655336380005
+epoch 323:
+loss: 1.24 || cls: 0.0076
+train: acc: 0.9997 || macc: 0.9996
+val:   acc: 0.9323 || macc: 0.9074
+duration: 17.819180488586426
+epoch 324:
+loss: 1.2407 || cls: 0.0075
+train: acc: 0.9994 || macc: 0.9993
+val:   acc: 0.9303 || macc: 0.9012
+duration: 17.873406171798706
+epoch 325:
+loss: 1.2387 || cls: 0.0073
+train: acc: 0.9998 || macc: 0.9996
+val:   acc: 0.9352 || macc: 0.9083
+duration: 17.829179763793945
+epoch 326:
+loss: 1.2394 || cls: 0.0079
+train: acc: 0.9996 || macc: 0.9995
+val:   acc: 0.936 || macc: 0.9076
+duration: 17.826107025146484
+epoch 327:
+loss: 1.2392 || cls: 0.0069
+train: acc: 0.9997 || macc: 0.9998
+val:   acc: 0.9327 || macc: 0.9047
+duration: 17.777933597564697
+epoch 328:
+loss: 1.2382 || cls: 0.0071
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9063
+duration: 17.772104501724243
+epoch 329:
+loss: 1.2395 || cls: 0.007
+train: acc: 0.9997 || macc: 0.9995
+val:   acc: 0.9368 || macc: 0.9082
+duration: 17.811701774597168
+epoch 330:
+loss: 1.2399 || cls: 0.0077
+train: acc: 0.9994 || macc: 0.9992
+val:   acc: 0.9311 || macc: 0.9046
+duration: 17.815499305725098
+epoch 331:
+loss: 1.2386 || cls: 0.0073
+train: acc: 0.9998 || macc: 0.9998
+val:   acc: 0.9376 || macc: 0.9109
+duration: 17.863665342330933
+new best!
+epoch 332:
+loss: 1.2395 || cls: 0.0072
+train: acc: 0.9996 || macc: 0.9992
+val:   acc: 0.9311 || macc: 0.9054
+duration: 17.847668170928955
+epoch 333:
+loss: 1.2397 || cls: 0.0069
+train: acc: 0.9995 || macc: 0.9993
+val:   acc: 0.934 || macc: 0.9024
+duration: 17.81619906425476
+epoch 334:
+loss: 1.2389 || cls: 0.0072
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9089
+duration: 17.81701111793518
+epoch 335:
+loss: 1.2382 || cls: 0.0069
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9303 || macc: 0.9064
+duration: 17.821209192276
+epoch 336:
+loss: 1.2379 || cls: 0.0064
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9327 || macc: 0.9032
+duration: 17.804732084274292
+epoch 337:
+loss: 1.2385 || cls: 0.0074
+train: acc: 0.9994 || macc: 0.9991
+val:   acc: 0.9348 || macc: 0.9098
+duration: 17.81021523475647
+epoch 338:
+loss: 1.2383 || cls: 0.0072
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9376 || macc: 0.9097
+duration: 17.808695554733276
+epoch 339:
+loss: 1.2381 || cls: 0.0074
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.934 || macc: 0.9035
+duration: 17.813905715942383
+epoch 340:
+loss: 1.2384 || cls: 0.0071
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9356 || macc: 0.9059
+duration: 17.815716981887817
+epoch 341:
+loss: 1.2384 || cls: 0.0066
+train: acc: 0.9993 || macc: 0.999
+val:   acc: 0.9295 || macc: 0.9029
+duration: 17.808683156967163
+epoch 342:
+loss: 1.239 || cls: 0.0077
+train: acc: 0.9996 || macc: 0.9995
+val:   acc: 0.934 || macc: 0.9064
+duration: 17.818255186080933
+epoch 343:
+loss: 1.2376 || cls: 0.007
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9323 || macc: 0.9054
+duration: 17.736377000808716
+epoch 344:
+loss: 1.2388 || cls: 0.0077
+train: acc: 0.9995 || macc: 0.9993
+val:   acc: 0.9348 || macc: 0.9079
+duration: 17.730097770690918
+epoch 345:
+loss: 1.2387 || cls: 0.0074
+train: acc: 0.9994 || macc: 0.9994
+val:   acc: 0.9311 || macc: 0.9014
+duration: 17.78798222541809
+epoch 346:
+loss: 1.2377 || cls: 0.0074
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9331 || macc: 0.9071
+duration: 17.782179355621338
+epoch 347:
+loss: 1.2382 || cls: 0.0073
+train: acc: 0.9995 || macc: 0.9994
+val:   acc: 0.9267 || macc: 0.8982
+duration: 17.981703996658325
+epoch 348:
+loss: 1.2383 || cls: 0.0069
+train: acc: 0.9997 || macc: 0.9997
+val:   acc: 0.9364 || macc: 0.911
+duration: 17.836397171020508
+epoch 349:
+loss: 1.2385 || cls: 0.0072
+train: acc: 0.9996 || macc: 0.9996
+val:   acc: 0.936 || macc: 0.9079
+duration: 17.817301273345947
+epoch 350:
+loss: 1.2379 || cls: 0.0069
+train: acc: 0.9997 || macc: 0.9995
+val:   acc: 0.9376 || macc: 0.913
+duration: 17.816916942596436
+epoch 351:
+loss: 1.2379 || cls: 0.0079
+train: acc: 0.9998 || macc: 0.9998
+val:   acc: 0.9331 || macc: 0.9047
+duration: 17.821854829788208
+epoch 352:
+loss: 1.2383 || cls: 0.007
+train: acc: 0.9997 || macc: 0.9995
+val:   acc: 0.9364 || macc: 0.9086
+duration: 17.82093334197998
+epoch 353:
+loss: 1.237 || cls: 0.0072
+train: acc: 0.9999 || macc: 0.9997
+val:   acc: 0.938 || macc: 0.9105
+duration: 17.812732219696045
+new best!
+epoch 354:
+loss: 1.2382 || cls: 0.0085
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9356 || macc: 0.9108
+duration: 17.79958200454712
+epoch 355:
+loss: 1.2379 || cls: 0.0071
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9352 || macc: 0.9084
+duration: 17.806835651397705
+epoch 356:
+loss: 1.2378 || cls: 0.0068
+train: acc: 0.9999 || macc: 0.9997
+val:   acc: 0.9372 || macc: 0.9085
+duration: 17.82027769088745
+epoch 357:
+loss: 1.2368 || cls: 0.0069
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9372 || macc: 0.9088
+duration: 17.812440156936646
+epoch 358:
+loss: 1.2374 || cls: 0.0069
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9368 || macc: 0.9118
+duration: 17.823986053466797
+epoch 359:
+loss: 1.2372 || cls: 0.0066
+train: acc: 0.9997 || macc: 0.9993
+val:   acc: 0.9352 || macc: 0.9106
+duration: 17.817697525024414
+epoch 360:
+loss: 1.2373 || cls: 0.0078
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.934 || macc: 0.9067
+duration: 17.816556930541992
+epoch 361:
+loss: 1.2378 || cls: 0.0063
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9368 || macc: 0.9102
+duration: 17.80871319770813
+epoch 362:
+loss: 1.2378 || cls: 0.0089
+train: acc: 0.9994 || macc: 0.9992
+val:   acc: 0.936 || macc: 0.9071
+duration: 17.81037211418152
+epoch 363:
+loss: 1.2366 || cls: 0.0071
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.94 || macc: 0.9105
+duration: 17.827357292175293
+new best!
+epoch 364:
+loss: 1.2373 || cls: 0.0073
+train: acc: 0.9997 || macc: 0.9996
+val:   acc: 0.934 || macc: 0.9068
+duration: 17.81748676300049
+epoch 365:
+loss: 1.237 || cls: 0.0066
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.936 || macc: 0.9062
+duration: 17.813300848007202
+epoch 366:
+loss: 1.2373 || cls: 0.0068
+train: acc: 0.9997 || macc: 0.9995
+val:   acc: 0.9331 || macc: 0.904
+duration: 17.81253457069397
+epoch 367:
+loss: 1.2372 || cls: 0.0068
+train: acc: 0.9997 || macc: 0.9997
+val:   acc: 0.9372 || macc: 0.9087
+duration: 17.83284902572632
+epoch 368:
+loss: 1.2368 || cls: 0.0073
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9352 || macc: 0.9122
+duration: 17.819140672683716
+epoch 369:
+loss: 1.2366 || cls: 0.0065
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9352 || macc: 0.9084
+duration: 17.822437047958374
+epoch 370:
+loss: 1.2378 || cls: 0.0072
+train: acc: 0.9996 || macc: 0.9995
+val:   acc: 0.9392 || macc: 0.9119
+duration: 17.824082136154175
+epoch 371:
+loss: 1.2356 || cls: 0.0066
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9356 || macc: 0.9069
+duration: 17.805128812789917
+epoch 372:
+loss: 1.2366 || cls: 0.007
+train: acc: 0.9997 || macc: 0.9995
+val:   acc: 0.9404 || macc: 0.909
+duration: 17.81205916404724
+new best!
+epoch 373:
+loss: 1.2362 || cls: 0.0073
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9295 || macc: 0.9072
+duration: 17.813604593276978
+epoch 374:
+loss: 1.2362 || cls: 0.0066
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9323 || macc: 0.9047
+duration: 17.82779860496521
+epoch 375:
+loss: 1.2358 || cls: 0.0067
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9364 || macc: 0.9062
+duration: 17.80698275566101
+epoch 376:
+loss: 1.2365 || cls: 0.0074
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.936 || macc: 0.9036
+duration: 17.814868450164795
+epoch 377:
+loss: 1.2361 || cls: 0.0068
+train: acc: 0.9999 || macc: 0.9996
+val:   acc: 0.9344 || macc: 0.9077
+duration: 17.80849838256836
+epoch 378:
+loss: 1.236 || cls: 0.0071
+train: acc: 0.9996 || macc: 0.9994
+val:   acc: 0.9307 || macc: 0.8994
+duration: 17.806216955184937
+epoch 379:
+loss: 1.2355 || cls: 0.0071
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9352 || macc: 0.9062
+duration: 17.800835132598877
+epoch 380:
+loss: 1.2369 || cls: 0.0065
+train: acc: 0.9997 || macc: 0.9996
+val:   acc: 0.9344 || macc: 0.9039
+duration: 17.803696632385254
+epoch 381:
+loss: 1.2362 || cls: 0.007
+train: acc: 0.9999 || macc: 0.9997
+val:   acc: 0.9335 || macc: 0.9084
+duration: 17.822409868240356
+epoch 382:
+loss: 1.2362 || cls: 0.0061
+train: acc: 0.9998 || macc: 0.9996
+val:   acc: 0.9352 || macc: 0.9055
+duration: 17.81018328666687
+epoch 383:
+loss: 1.2359 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9388 || macc: 0.907
+duration: 17.826663732528687
+epoch 384:
+loss: 1.2365 || cls: 0.0069
+train: acc: 0.9998 || macc: 0.9998
+val:   acc: 0.934 || macc: 0.9066
+duration: 17.80888867378235
+epoch 385:
+loss: 1.236 || cls: 0.0074
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9327 || macc: 0.9057
+duration: 17.823078155517578
+epoch 386:
+loss: 1.2359 || cls: 0.0067
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9335 || macc: 0.9061
+duration: 17.803292512893677
+epoch 387:
+loss: 1.2366 || cls: 0.0068
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9348 || macc: 0.9022
+duration: 17.814865112304688
+epoch 388:
+loss: 1.2353 || cls: 0.0064
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.936 || macc: 0.9099
+duration: 17.79319977760315
+epoch 389:
+loss: 1.236 || cls: 0.0071
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9352 || macc: 0.9082
+duration: 17.81230139732361
+epoch 390:
+loss: 1.2353 || cls: 0.0064
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9348 || macc: 0.9048
+duration: 17.806923151016235
+epoch 391:
+loss: 1.2359 || cls: 0.0069
+train: acc: 0.9997 || macc: 0.9996
+val:   acc: 0.9352 || macc: 0.9047
+duration: 17.799508810043335
+epoch 392:
+loss: 1.2358 || cls: 0.0066
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9307 || macc: 0.9046
+duration: 17.803258419036865
+epoch 393:
+loss: 1.235 || cls: 0.0065
+train: acc: 0.9998 || macc: 0.9996
+val:   acc: 0.934 || macc: 0.9067
+duration: 17.82021689414978
+epoch 394:
+loss: 1.2349 || cls: 0.0066
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9392 || macc: 0.916
+duration: 17.798815488815308
+epoch 395:
+loss: 1.2353 || cls: 0.0061
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9335 || macc: 0.91
+duration: 17.814412832260132
+epoch 396:
+loss: 1.2348 || cls: 0.0063
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9388 || macc: 0.9109
+duration: 17.817517042160034
+epoch 397:
+loss: 1.2351 || cls: 0.0069
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9392 || macc: 0.9111
+duration: 17.811479806900024
+epoch 398:
+loss: 1.2351 || cls: 0.0067
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9396 || macc: 0.9125
+duration: 17.803449153900146
+epoch 399:
+loss: 1.2348 || cls: 0.0067
+train: acc: 0.9998 || macc: 0.9998
+val:   acc: 0.934 || macc: 0.9105
+duration: 17.807374954223633
+epoch 400:
+loss: 1.2353 || cls: 0.0068
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9356 || macc: 0.9104
+duration: 17.818710803985596
+epoch 401:
+loss: 1.2351 || cls: 0.0066
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9376 || macc: 0.9091
+duration: 17.806949377059937
+epoch 402:
+loss: 1.2348 || cls: 0.0069
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9303 || macc: 0.9065
+duration: 17.80524516105652
+epoch 403:
+loss: 1.2349 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.934 || macc: 0.9085
+duration: 17.805887460708618
+epoch 404:
+loss: 1.2351 || cls: 0.0066
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.936 || macc: 0.9148
+duration: 17.824660539627075
+epoch 405:
+loss: 1.2349 || cls: 0.0068
+train: acc: 0.9998 || macc: 0.9998
+val:   acc: 0.9388 || macc: 0.9118
+duration: 17.814566135406494
+epoch 406:
+loss: 1.2354 || cls: 0.0072
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9344 || macc: 0.91
+duration: 17.817036867141724
+epoch 407:
+loss: 1.235 || cls: 0.007
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9295 || macc: 0.9048
+duration: 17.812306880950928
+epoch 408:
+loss: 1.2353 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.936 || macc: 0.9111
+duration: 17.817113161087036
+epoch 409:
+loss: 1.2344 || cls: 0.0066
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.934 || macc: 0.9097
+duration: 17.812207221984863
+epoch 410:
+loss: 1.2348 || cls: 0.0067
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9356 || macc: 0.9119
+duration: 17.8163423538208
+epoch 411:
+loss: 1.235 || cls: 0.0066
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9331 || macc: 0.9082
+duration: 17.809135913848877
+epoch 412:
+loss: 1.2346 || cls: 0.0065
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9327 || macc: 0.9052
+duration: 17.816093683242798
+epoch 413:
+loss: 1.2351 || cls: 0.0066
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9323 || macc: 0.9048
+duration: 17.815337896347046
+epoch 414:
+loss: 1.2347 || cls: 0.0068
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9335 || macc: 0.9074
+duration: 17.83914566040039
+epoch 415:
+loss: 1.2349 || cls: 0.0062
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9344 || macc: 0.9079
+duration: 17.81564164161682
+epoch 416:
+loss: 1.2341 || cls: 0.0064
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9348 || macc: 0.9112
+duration: 17.648029088974
+epoch 417:
+loss: 1.2344 || cls: 0.0065
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9331 || macc: 0.9083
+duration: 17.728601694107056
+epoch 418:
+loss: 1.2343 || cls: 0.0065
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9323 || macc: 0.9038
+duration: 17.844802618026733
+epoch 419:
+loss: 1.234 || cls: 0.0064
+train: acc: 0.9999 || macc: 0.9996
+val:   acc: 0.9352 || macc: 0.9036
+duration: 17.82380175590515
+epoch 420:
+loss: 1.234 || cls: 0.0064
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9319 || macc: 0.9056
+duration: 17.894946813583374
+epoch 421:
+loss: 1.2345 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9352 || macc: 0.9118
+duration: 17.83394694328308
+epoch 422:
+loss: 1.2341 || cls: 0.0065
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9348 || macc: 0.9084
+duration: 17.829718828201294
+epoch 423:
+loss: 1.2342 || cls: 0.0061
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.934 || macc: 0.9088
+duration: 17.853861331939697
+epoch 424:
+loss: 1.2346 || cls: 0.0066
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9348 || macc: 0.9125
+duration: 17.852126359939575
+epoch 425:
+loss: 1.2346 || cls: 0.0064
+train: acc: 0.9997 || macc: 0.9996
+val:   acc: 0.936 || macc: 0.913
+duration: 17.84782361984253
+epoch 426:
+loss: 1.2339 || cls: 0.0068
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9348 || macc: 0.9125
+duration: 17.816949605941772
+epoch 427:
+loss: 1.2341 || cls: 0.0064
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.936 || macc: 0.9112
+duration: 17.80864119529724
+epoch 428:
+loss: 1.2343 || cls: 0.0063
+train: acc: 0.9998 || macc: 0.9998
+val:   acc: 0.938 || macc: 0.9135
+duration: 17.81621289253235
+epoch 429:
+loss: 1.2344 || cls: 0.0063
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9352 || macc: 0.9087
+duration: 17.808034420013428
+epoch 430:
+loss: 1.234 || cls: 0.0063
+train: acc: 0.9999 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9112
+duration: 17.816421508789062
+epoch 431:
+loss: 1.2345 || cls: 0.0064
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9372 || macc: 0.9119
+duration: 17.830504179000854
+epoch 432:
+loss: 1.2337 || cls: 0.0065
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9106
+duration: 17.821905851364136
+epoch 433:
+loss: 1.2336 || cls: 0.0066
+train: acc: 0.9998 || macc: 0.9996
+val:   acc: 0.9348 || macc: 0.9084
+duration: 17.81416368484497
+epoch 434:
+loss: 1.2335 || cls: 0.0063
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9364 || macc: 0.9114
+duration: 17.56104826927185
+epoch 435:
+loss: 1.2341 || cls: 0.0069
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9344 || macc: 0.9121
+duration: 17.741556882858276
+epoch 436:
+loss: 1.234 || cls: 0.0062
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9319 || macc: 0.9094
+duration: 17.809834718704224
+epoch 437:
+loss: 1.234 || cls: 0.0061
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9388 || macc: 0.9138
+duration: 17.827691316604614
+epoch 438:
+loss: 1.2342 || cls: 0.0064
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9364 || macc: 0.9123
+duration: 17.80889368057251
+epoch 439:
+loss: 1.2341 || cls: 0.0066
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9331 || macc: 0.9083
+duration: 17.85048532485962
+epoch 440:
+loss: 1.2335 || cls: 0.0064
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9331 || macc: 0.9064
+duration: 17.91188621520996
+epoch 441:
+loss: 1.2336 || cls: 0.0067
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9348 || macc: 0.9074
+duration: 17.885986328125
+epoch 442:
+loss: 1.2335 || cls: 0.0066
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9094
+duration: 17.873729705810547
+epoch 443:
+loss: 1.2331 || cls: 0.0063
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9352 || macc: 0.9065
+duration: 17.87244415283203
+epoch 444:
+loss: 1.2342 || cls: 0.0058
+train: acc: 0.9998 || macc: 0.9996
+val:   acc: 0.9392 || macc: 0.9102
+duration: 17.83676314353943
+epoch 445:
+loss: 1.2334 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9388 || macc: 0.9079
+duration: 17.708009958267212
+epoch 446:
+loss: 1.2336 || cls: 0.0063
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9384 || macc: 0.9116
+duration: 17.797487497329712
+epoch 447:
+loss: 1.2336 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9384 || macc: 0.9117
+duration: 17.931314945220947
+epoch 448:
+loss: 1.2334 || cls: 0.0062
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9372 || macc: 0.9099
+duration: 17.862973928451538
+epoch 449:
+loss: 1.2336 || cls: 0.0067
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9364 || macc: 0.9095
+duration: 17.73098134994507
+epoch 450:
+loss: 1.2331 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9112
+duration: 17.851951837539673
+epoch 451:
+loss: 1.2332 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9096
+duration: 17.880287408828735
+epoch 452:
+loss: 1.2334 || cls: 0.0064
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.913
+duration: 17.738175868988037
+epoch 453:
+loss: 1.2335 || cls: 0.0061
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9348 || macc: 0.9074
+duration: 17.754796028137207
+epoch 454:
+loss: 1.2332 || cls: 0.0067
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9348 || macc: 0.9125
+duration: 17.782474994659424
+epoch 455:
+loss: 1.2337 || cls: 0.0067
+train: acc: 0.9997 || macc: 0.9996
+val:   acc: 0.9352 || macc: 0.9105
+duration: 17.779069662094116
+epoch 456:
+loss: 1.2333 || cls: 0.0065
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.9096
+duration: 17.814559936523438
+epoch 457:
+loss: 1.2335 || cls: 0.0062
+train: acc: 0.9998 || macc: 0.9996
+val:   acc: 0.938 || macc: 0.9074
+duration: 17.826552391052246
+epoch 458:
+loss: 1.2332 || cls: 0.0065
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9094
+duration: 17.95592164993286
+epoch 459:
+loss: 1.2333 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9352 || macc: 0.9096
+duration: 17.838625192642212
+epoch 460:
+loss: 1.2334 || cls: 0.0067
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9352 || macc: 0.9106
+duration: 17.824954509735107
+epoch 461:
+loss: 1.2334 || cls: 0.0059
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9368 || macc: 0.9127
+duration: 17.76036286354065
+epoch 462:
+loss: 1.2331 || cls: 0.0061
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.936 || macc: 0.9107
+duration: 17.778308629989624
+epoch 463:
+loss: 1.2329 || cls: 0.0061
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9364 || macc: 0.9101
+duration: 17.644332885742188
+epoch 464:
+loss: 1.2326 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9102
+duration: 17.76479148864746
+epoch 465:
+loss: 1.2328 || cls: 0.0061
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9364 || macc: 0.9073
+duration: 18.053072214126587
+epoch 466:
+loss: 1.2327 || cls: 0.0061
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9388 || macc: 0.909
+duration: 17.87291169166565
+epoch 467:
+loss: 1.2327 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9392 || macc: 0.9092
+duration: 17.83067750930786
+epoch 468:
+loss: 1.2331 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9108
+duration: 17.827375888824463
+epoch 469:
+loss: 1.2328 || cls: 0.0063
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.936 || macc: 0.9062
+duration: 17.819400787353516
+epoch 470:
+loss: 1.2331 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9356 || macc: 0.9067
+duration: 17.78655695915222
+epoch 471:
+loss: 1.2328 || cls: 0.0063
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.9087
+duration: 17.780540943145752
+epoch 472:
+loss: 1.2331 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9094
+duration: 17.815577507019043
+epoch 473:
+loss: 1.2324 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9097
+duration: 17.81020450592041
+epoch 474:
+loss: 1.2327 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9392 || macc: 0.911
+duration: 17.82640552520752
+epoch 475:
+loss: 1.2329 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.936 || macc: 0.9121
+duration: 17.812309503555298
+epoch 476:
+loss: 1.2328 || cls: 0.0063
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9086
+duration: 17.825345277786255
+epoch 477:
+loss: 1.2325 || cls: 0.0061
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9348 || macc: 0.9095
+duration: 17.817837476730347
+epoch 478:
+loss: 1.2324 || cls: 0.0063
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9408 || macc: 0.9133
+duration: 17.801992416381836
+new best!
+epoch 479:
+loss: 1.2327 || cls: 0.0059
+train: acc: 0.9998 || macc: 0.9998
+val:   acc: 0.9368 || macc: 0.9106
+duration: 17.804575443267822
+epoch 480:
+loss: 1.2332 || cls: 0.0063
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9368 || macc: 0.9106
+duration: 17.815297603607178
+epoch 481:
+loss: 1.2327 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.911
+duration: 17.812512397766113
+epoch 482:
+loss: 1.2321 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9096
+duration: 17.821378469467163
+epoch 483:
+loss: 1.2328 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9149
+duration: 17.819761514663696
+epoch 484:
+loss: 1.2323 || cls: 0.0061
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9124
+duration: 17.813225984573364
+epoch 485:
+loss: 1.2328 || cls: 0.0058
+train: acc: 0.9997 || macc: 0.9997
+val:   acc: 0.9396 || macc: 0.9085
+duration: 17.813634395599365
+epoch 486:
+loss: 1.2325 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9107
+duration: 17.818342685699463
+epoch 487:
+loss: 1.2323 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9072
+duration: 17.82435917854309
+epoch 488:
+loss: 1.2326 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9364 || macc: 0.9088
+duration: 17.820639610290527
+epoch 489:
+loss: 1.233 || cls: 0.0058
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9113
+duration: 17.81108856201172
+epoch 490:
+loss: 1.2324 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9352 || macc: 0.9051
+duration: 17.821967124938965
+epoch 491:
+loss: 1.2325 || cls: 0.0061
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.9138
+duration: 17.831393480300903
+epoch 492:
+loss: 1.2318 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9352 || macc: 0.9064
+duration: 17.814705848693848
+epoch 493:
+loss: 1.2321 || cls: 0.0058
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9396 || macc: 0.9124
+duration: 17.82186770439148
+epoch 494:
+loss: 1.2324 || cls: 0.006
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9364 || macc: 0.9102
+duration: 18.638649940490723
+epoch 495:
+loss: 1.2326 || cls: 0.0061
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9384 || macc: 0.9154
+duration: 18.545950412750244
+epoch 496:
+loss: 1.2319 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.9127
+duration: 18.546520709991455
+epoch 497:
+loss: 1.232 || cls: 0.0058
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.9106
+duration: 18.559081077575684
+epoch 498:
+loss: 1.2327 || cls: 0.0059
+train: acc: 0.9999 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.9127
+duration: 18.554081201553345
+epoch 499:
+loss: 1.2319 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.9085
+duration: 18.507660150527954
+epoch 500:
+loss: 1.2325 || cls: 0.0062
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9356 || macc: 0.9103
+duration: 18.520036935806274
+epoch 501:
+loss: 1.2322 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9352 || macc: 0.9082
+duration: 18.51010513305664
+epoch 502:
+loss: 1.2324 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.934 || macc: 0.9095
+duration: 18.46176552772522
+epoch 503:
+loss: 1.2324 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.934 || macc: 0.9085
+duration: 17.808404684066772
+epoch 504:
+loss: 1.2321 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9352 || macc: 0.9067
+duration: 17.83775281906128
+epoch 505:
+loss: 1.2326 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9114
+duration: 17.828439712524414
+epoch 506:
+loss: 1.2322 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9335 || macc: 0.9093
+duration: 17.828261852264404
+epoch 507:
+loss: 1.2323 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.936 || macc: 0.9089
+duration: 17.82283067703247
+epoch 508:
+loss: 1.232 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9388 || macc: 0.9138
+duration: 17.822829723358154
+epoch 509:
+loss: 1.2322 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9396 || macc: 0.9173
+duration: 17.816545963287354
+epoch 510:
+loss: 1.2327 || cls: 0.0056
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9376 || macc: 0.9119
+duration: 17.826252460479736
+epoch 511:
+loss: 1.2323 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9384 || macc: 0.9126
+duration: 18.34619927406311
+epoch 512:
+loss: 1.2325 || cls: 0.006
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.936 || macc: 0.9114
+duration: 18.074098348617554
+epoch 513:
+loss: 1.2322 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9356 || macc: 0.9109
+duration: 17.419353723526
+epoch 514:
+loss: 1.2323 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.936 || macc: 0.9092
+duration: 17.432206869125366
+epoch 515:
+loss: 1.2318 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9392 || macc: 0.9132
+duration: 17.4271559715271
+epoch 516:
+loss: 1.232 || cls: 0.0063
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9364 || macc: 0.9116
+duration: 17.42236089706421
+epoch 517:
+loss: 1.2321 || cls: 0.0059
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.934 || macc: 0.9099
+duration: 17.421968698501587
+epoch 518:
+loss: 1.2319 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9344 || macc: 0.9102
+duration: 17.429162740707397
+epoch 519:
+loss: 1.2323 || cls: 0.0061
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9364 || macc: 0.9112
+duration: 17.416922330856323
+epoch 520:
+loss: 1.2319 || cls: 0.0058
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9348 || macc: 0.9105
+duration: 17.42658805847168
+epoch 521:
+loss: 1.2321 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9091
+duration: 17.429569005966187
+epoch 522:
+loss: 1.2319 || cls: 0.0058
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9356 || macc: 0.911
+duration: 17.424943685531616
+epoch 523:
+loss: 1.232 || cls: 0.0058
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9368 || macc: 0.9078
+duration: 17.428462505340576
+epoch 524:
+loss: 1.232 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9115
+duration: 17.426777839660645
+epoch 525:
+loss: 1.232 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9118
+duration: 17.414762496948242
+epoch 526:
+loss: 1.2325 || cls: 0.0055
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9368 || macc: 0.9088
+duration: 17.401646375656128
+epoch 527:
+loss: 1.232 || cls: 0.0058
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9097
+duration: 17.418940782546997
+epoch 528:
+loss: 1.2326 || cls: 0.0062
+train: acc: 0.9998 || macc: 0.9996
+val:   acc: 0.9376 || macc: 0.9132
+duration: 17.423511505126953
+epoch 529:
+loss: 1.2318 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.936 || macc: 0.9071
+duration: 17.412504196166992
+epoch 530:
+loss: 1.2319 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.91
+duration: 17.418429613113403
+epoch 531:
+loss: 1.2317 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9356 || macc: 0.908
+duration: 17.415721654891968
+epoch 532:
+loss: 1.2318 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9356 || macc: 0.908
+duration: 17.42285966873169
+epoch 533:
+loss: 1.2318 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.909
+duration: 17.420783519744873
+epoch 534:
+loss: 1.2323 || cls: 0.0063
+train: acc: 0.9999 || macc: 0.9997
+val:   acc: 0.9352 || macc: 0.9066
+duration: 17.42331886291504
+epoch 535:
+loss: 1.2317 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9115
+duration: 17.42493724822998
+epoch 536:
+loss: 1.232 || cls: 0.0058
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.936 || macc: 0.9074
+duration: 17.417351484298706
+epoch 537:
+loss: 1.2318 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.91
+duration: 17.42659616470337
+epoch 538:
+loss: 1.2318 || cls: 0.0055
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9364 || macc: 0.9093
+duration: 17.433749675750732
+epoch 539:
+loss: 1.232 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9364 || macc: 0.9102
+duration: 17.42760133743286
+epoch 540:
+loss: 1.2319 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9356 || macc: 0.9079
+duration: 17.43082571029663
+epoch 541:
+loss: 1.2317 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9352 || macc: 0.9104
+duration: 17.435232400894165
+epoch 542:
+loss: 1.2318 || cls: 0.0058
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9112
+duration: 17.430131912231445
+epoch 543:
+loss: 1.232 || cls: 0.006
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9352 || macc: 0.9077
+duration: 17.41502046585083
+epoch 544:
+loss: 1.2321 || cls: 0.0054
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9392 || macc: 0.9143
+duration: 17.42582416534424
+epoch 545:
+loss: 1.2321 || cls: 0.0063
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9352 || macc: 0.9087
+duration: 17.42442274093628
+epoch 546:
+loss: 1.2317 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9356 || macc: 0.9079
+duration: 17.426605224609375
+epoch 547:
+loss: 1.2317 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9082
+duration: 17.421347618103027
+epoch 548:
+loss: 1.2319 || cls: 0.0054
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9364 || macc: 0.9085
+duration: 17.429556369781494
+epoch 549:
+loss: 1.2318 || cls: 0.006
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.9372 || macc: 0.9119
+duration: 17.41494607925415
+epoch 550:
+loss: 1.2318 || cls: 0.0057
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.938 || macc: 0.9125
+duration: 17.423299074172974
+epoch 551:
+loss: 1.2316 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9352 || macc: 0.9107
+duration: 17.41914200782776
+epoch 552:
+loss: 1.2319 || cls: 0.0055
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9388 || macc: 0.915
+duration: 17.419593811035156
+epoch 553:
+loss: 1.2318 || cls: 0.0058
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9408 || macc: 0.9144
+duration: 17.420103549957275
+epoch 554:
+loss: 1.2321 || cls: 0.006
+train: acc: 0.9999 || macc: 0.9999
+val:   acc: 0.9368 || macc: 0.9097
+duration: 17.423466444015503
+epoch 555:
+loss: 1.2315 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9113
+duration: 17.434430360794067
+epoch 556:
+loss: 1.2321 || cls: 0.0056
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.936 || macc: 0.9111
+duration: 18.5113685131073
+epoch 557:
+loss: 1.2317 || cls: 0.0054
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9352 || macc: 0.9097
+duration: 18.788098573684692
+epoch 558:
+loss: 1.2318 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9392 || macc: 0.9103
+duration: 18.128974437713623
+epoch 559:
+loss: 1.2319 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9133
+duration: 17.422579288482666
+epoch 560:
+loss: 1.2314 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9356 || macc: 0.91
+duration: 17.423627853393555
+epoch 561:
+loss: 1.2316 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9121
+duration: 17.429269790649414
+epoch 562:
+loss: 1.2318 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9104
+duration: 17.419058084487915
+epoch 563:
+loss: 1.2319 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9126
+duration: 17.42112708091736
+epoch 564:
+loss: 1.2321 || cls: 0.0058
+train: acc: 0.9998 || macc: 0.9997
+val:   acc: 0.9368 || macc: 0.9126
+duration: 17.42524027824402
+epoch 565:
+loss: 1.2318 || cls: 0.0065
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.912
+duration: 17.420021057128906
+epoch 566:
+loss: 1.2313 || cls: 0.0064
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9103
+duration: 17.420966625213623
+epoch 567:
+loss: 1.2316 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9364 || macc: 0.9084
+duration: 17.432114362716675
+epoch 568:
+loss: 1.2314 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.936 || macc: 0.9072
+duration: 17.428008317947388
+epoch 569:
+loss: 1.2319 || cls: 0.0058
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9123
+duration: 17.427123546600342
+epoch 570:
+loss: 1.2322 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9114
+duration: 17.418169260025024
+epoch 571:
+loss: 1.2317 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.909
+duration: 17.419906854629517
+epoch 572:
+loss: 1.2317 || cls: 0.0056
+train: acc: 0.9999 || macc: 0.9997
+val:   acc: 0.9392 || macc: 0.9132
+duration: 17.4268639087677
+epoch 573:
+loss: 1.2315 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9097
+duration: 17.42054557800293
+epoch 574:
+loss: 1.2318 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9104
+duration: 17.420569896697998
+epoch 575:
+loss: 1.2315 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9102
+duration: 17.427414655685425
+epoch 576:
+loss: 1.2316 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9106
+duration: 17.428499460220337
+epoch 577:
+loss: 1.2319 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9134
+duration: 17.423834323883057
+epoch 578:
+loss: 1.2316 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9384 || macc: 0.9107
+duration: 17.433640956878662
+epoch 579:
+loss: 1.2317 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9114
+duration: 17.412240028381348
+epoch 580:
+loss: 1.2319 || cls: 0.0055
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9392 || macc: 0.9153
+duration: 17.42337465286255
+epoch 581:
+loss: 1.2318 || cls: 0.0054
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9106
+duration: 17.40688180923462
+epoch 582:
+loss: 1.2315 || cls: 0.0055
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9102
+duration: 17.41984534263611
+epoch 583:
+loss: 1.2318 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9082
+duration: 17.415382146835327
+epoch 584:
+loss: 1.2316 || cls: 0.0055
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9392 || macc: 0.9113
+duration: 17.419186115264893
+epoch 585:
+loss: 1.2317 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9384 || macc: 0.9127
+duration: 17.418514728546143
+epoch 586:
+loss: 1.2317 || cls: 0.006
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9384 || macc: 0.9118
+duration: 17.42913317680359
+epoch 587:
+loss: 1.2316 || cls: 0.0055
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9396 || macc: 0.9146
+duration: 17.426542043685913
+epoch 588:
+loss: 1.2317 || cls: 0.0055
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9364 || macc: 0.9105
+duration: 17.425868034362793
+epoch 589:
+loss: 1.2312 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9104
+duration: 17.41707468032837
+epoch 590:
+loss: 1.2315 || cls: 0.006
+train: acc: 0.9999 || macc: 0.9998
+val:   acc: 0.938 || macc: 0.9109
+duration: 17.42029333114624
+epoch 591:
+loss: 1.2318 || cls: 0.0059
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9376 || macc: 0.9102
+duration: 17.42015838623047
+epoch 592:
+loss: 1.2315 || cls: 0.0055
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9132
+duration: 17.426032543182373
+epoch 593:
+loss: 1.2317 || cls: 0.0055
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9372 || macc: 0.9119
+duration: 17.419517040252686
+epoch 594:
+loss: 1.2318 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9364 || macc: 0.9075
+duration: 17.415534496307373
+epoch 595:
+loss: 1.2318 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9072
+duration: 17.42800235748291
+epoch 596:
+loss: 1.2315 || cls: 0.0057
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9114
+duration: 17.421520471572876
+epoch 597:
+loss: 1.2315 || cls: 0.0062
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9368 || macc: 0.9107
+duration: 17.419562339782715
+epoch 598:
+loss: 1.2317 || cls: 0.0056
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.938 || macc: 0.9105
+duration: 17.424252033233643
+epoch 599:
+loss: 1.2312 || cls: 0.0058
+train: acc: 1.0 || macc: 1.0
+val:   acc: 0.9331 || macc: 0.9074
+duration: 17.419468641281128
